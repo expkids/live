@@ -681,6 +681,29 @@ GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 GOOD2TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 
 
+💝台灣新聞,#genre#
+
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
+
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
+壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
+
+
 💝測壹頻道,#genre#
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
