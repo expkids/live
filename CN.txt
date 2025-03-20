@@ -2124,7 +2124,6 @@ CCTV-15,http://221.226.215.162:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 笑傲江湖,https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4
 笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=26355790
 笑傲江湖,http://124.248.69.76:26781/huya/23865142
-笑傲江湖,http://1.94.31.214:35455/huya/26355790
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/2000k/hls/mixed.m3u8
 笑傲江湖,https://live.metshop.top/huya/23865142
 笑傲江湖,http://8.218.190.107:80/yy/1355067965
@@ -2133,12 +2132,10 @@ CCTV-15,http://221.226.215.162:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
 天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
 天龙八部,http://luobo.bkpcp.top/yy/1382736855
-天龙八部,http://1.94.31.214:35455/huya/23903123
 天龙八部,https://vip.ffzy-play5.com/20230121/6052_87b1c663/2000k/hls/mixed.m3u8
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,http://43.138.0.72:35455/yy/1351814644
 天龙八部,http://8.218.190.107:80/yy/1351814644
-鹿鼎记,http://1.94.31.214:35455/yy/28265277
 鹿鼎记,https://vip.ffzy-online2.com/20230403/30732_157cb8d7/2000k/hls/mixed.m3u8
 鹿鼎记,https://live.metshop.top/yy/28265277
 鹿鼎记,http://lxajh.top/tv/douyu.php?id=11854896
@@ -2146,13 +2143,10 @@ CCTV-15,http://221.226.215.162:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 鹿鼎记,http://8.218.190.107:80/yy/1382704650
 鹿鼎记,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
-仙剑奇侠传,http://1.94.31.214:35455/yy/1382749903
 仙剑奇侠传,https://live.metshop.top/yy/1382749903
 仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
-西游记,http://1.94.31.214:35455/huya/26355861
 三国演义,http://124.248.69.76:26781/huya/11602081
-三国演义,http://1.94.31.214:35455/huya/11602081
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,http://lxajh.top/tv/douyu.php?id=5908256
 三国演义,http://8.218.190.107:80/yy/1354936241
@@ -2161,15 +2155,12 @@ CCTV-15,http://221.226.215.162:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://lunbo.freetv.top/yy/1353215589
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
-新白娘子传奇,http://1.94.31.214:35455/yy/1354490667
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 新白娘子传奇,http://8.218.190.107:80/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 新白娘子传奇,https://lunbo.freetv.top/yy/1354490667
-济公游记,http://1.94.31.214:35455/yy/21482
 济公游记,https://lunbo.freetv.top/yy/1355265814
 封神榜,http://luobo.bkpcp.top/yy/1353426319
-封神榜,http://1.94.31.214:35455/huya/29465849
 封神榜,https://live.metshop.top/yy/1353426319
 封神榜,http://8.218.190.107:80/yy/1353426319
 封神榜,http://www.clmy.cc:35455/yy/1353426319
@@ -2184,5 +2175,4 @@ CCTV-15,http://221.226.215.162:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 上海滩,http://43.138.0.72:35455/yy/1382745184
 上海滩,http://8.218.190.107:80/yy/1382745184
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164
-射雕英雄传,http://1.94.31.214:35455/huya/23824164
 射雕英雄传,https://lunbo.freetv.top/yy/1354210357
