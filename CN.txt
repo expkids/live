@@ -2160,7 +2160,6 @@ CCTV-15,http://221.226.215.162:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 水浒传,http://8.218.190.107:80/yy/1353873252
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://lunbo.freetv.top/yy/1353215589
-新白娘子传奇,http://61.133.118.228:5001/yy/1354490667
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 新白娘子传奇,http://1.94.31.214:35455/yy/1354490667
 新白娘子传奇,https://live.metshop.top/yy/1354490667
