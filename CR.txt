@@ -118,6 +118,15 @@ EYETV旅遊[1280x720],http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=
 民視新聞[1920x1080],http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞[1920x1080],http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 民視新聞[1920x1080],http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
+民視新聞[1920x1080],https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
+民視新聞[1920x1080],https://stream1.freetv.fun/5894b8838d821283efe476fc68f07338f39c2d48776be1326f3d378cc73aa9e0.m3u8
+民視新聞[1920x1080],https://stream1.freetv.fun/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8
+民視新聞[1920x1080],https://stream1.freetv.fun/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
+民視新聞[1920x1080],https://stream1.freetv.fun/7270ae89dc1f30cfec2c03d01b6e2fbc50863f60936b534814dfd28caa72181e.m3u8
+民視新聞[1920x1080],https://stream1.freetv.fun/be0059a28435e07a197e50fc5ec086b9e2e11b154e5035012c8a47f58d334473.m3u8
+民視新聞[1920x1080],https://stream1.freetv.fun/0c80cda59e31ab1b748fe8ab0d6b89877f0a36e117d4f0f1a3814aa1d015f4f4.m3u8
+民視新聞[1920x1080],https://stream1.freetv.fun/c5164ddd2983de1b83d87250bb921836d47363c90dc4643440e92060c18e98e6.m3u8
+民視新聞[1920x1080],https://stream1.freetv.fun/59efca9eea64079ba2ac54830e73469d9a1027e2dfd67d768bd4206567866cdb.m3u8
 民視台灣[1280x720],http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 民視臺灣[1280x720],http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民視臺灣[1280x720],http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=ME1E7840524878405248&ct=19234&tsum=2f1d9e430f55fa8a953df69b021c4c36
@@ -179,18 +188,29 @@ RTHK31[1280x720],http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MEFE5444496
 RTHK32[1280x720],http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 RTHK32[1280x720],http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 RTHK32[1280x720],http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=19234&tsum=6c3d17c15f8d4a4a0537ef1cb7c1cc45
+三立新聞[1920x1080],https://stream1.freetv.fun/ea74b932d9d126c79dbea6485ac7119fb16be08f6e7a4494cd2647641c93361d.m3u8
+三立新聞[1920x1080],https://stream1.freetv.fun/a97a103dc92d94b93dcc836a385d40739a3220f141df8d6333ba8e7a84f54464.ctv
 三立都會[1920x1080],http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 三立台灣[1920x1080],http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立台灣台[1920x1080],http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
-三立戏剧[1280x720],http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+三立戲劇[1280x720],http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戲劇[1280x720],http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 三立戲劇[1280x720],http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
 三立戲劇[1280x720],http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+三立戲劇[1280x720],https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8
 三立综合[1280x720],http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
 TLC 旅遊生活[1280x720],http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC 旅遊生活[1280x720],http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=ME1E5068508050685080&ct=19234&tsum=792da233e8fd44ab7b013a6faee25edf
 台視新聞HD[1280x720],http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新聞HD[1280x720],http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+台視新聞HD[1280x720],https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8
+台視新聞HD[1280x720],https://stream1.freetv.fun/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
+台視新聞HD[1280x720],https://stream1.freetv.fun/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
+台視新聞HD[1280x720],https://stream1.freetv.fun/2cd7d95623d15269907381c4334b4472875d13eb3d29b2e59dd6f4c25ac9e78a.m3u8
+台視新聞HD[1280x720],https://stream1.freetv.fun/784ae05fb9ac11addbb721a62d2ac99848c7ce019b5ede7f8faa8bc2c6e5de6f.m3u8
+台視新聞HD[1280x720],https://stream1.freetv.fun/84bd51e83b43802f2624c730b0fb47c23e165aa46dc85122678d745ed1a8a2b0.m3u8
+台視新聞HD[1280x720],https://stream1.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.m3u8
+台視新聞HD[1280x720],https://stream1.freetv.fun/9e87c84976d8ad7ce1dac1ba154da29c85371dffd4a6c00a3dfde2bf1fed5735.m3u8
 台視[1280x720],http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 台視[1280x720],http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
 TVBS[1920x1080],http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
@@ -203,6 +223,7 @@ TVBS新聞[1920x1080],http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MB6B36407
 TVBS新聞[1920x1080],http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新聞[1920x1080],http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 TVBS新聞[1920x1080],http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新聞[1920x1080],https://stream1.freetv.fun/695aa6bfeb7ec222b341b4772bca18c18a1d6cbac2a09101605eb68cdcef1713.m3u8
 緯來日本台[1920x1080],http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 緯來日本[1920x1080],http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBEB7017910870179108&ct=19346&tsum=f7186077b9ae7cdb1970969bd90a4d0a
 緯來電影[1920x1080],http://50.7.234.10:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
@@ -211,18 +232,19 @@ Viu6[1920x1080],http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630
 衛視中文[1920x1080],http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
 衛視中文[1920x1080],http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?tid=MADA3405227034052270&ct=19234&tsum=c34dd09cd30ff781054a12c1a06ab0f6
 星卫电影[1280x720],http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
-東森幼幼[1920x1080],http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+東森新聞[1280x720],https://stream1.freetv.fun/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
+東森幼幼[1280x720],http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 東森幼幼[1920x1080],http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=ME8E9672303196723031&ct=19344&tsum=91c7ab24e915643c77c2b0eed8de7137
 中視 HD[1280x720],http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中視 HD[1280x720],http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 中視 HD[1280x720],http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-中视新闻[1920x1080],http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+中視新聞[1280x720],http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中視新聞[1280x720],http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
 中視新聞[1280x720],http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MECE2153391221533912&ct=19234&tsum=fe5df13ec0ca4298acf881a53128f2cd
 中視經典[1280x720],http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中視經典[1280x720],http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=MECE1189477111894771&ct=19234&tsum=582d215df269921b0c0ce288b5fac94a
 中視經典[1280x720],http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-
+寰宇新聞[1920x1080],https://stream1.freetv.fun/f1aee25c74ec1e559ed86c00feb6074cef35d76d15a0d3f7019530b7ac094bcc.m3u8
 
 💥4GTV频道｜测试,#genre#
 民视新闻4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv13
