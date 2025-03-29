@@ -1,4 +1,5 @@
-﻿ABC News[1280x720],http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+☘️台灣频道,#genre#
+ABC News[1280x720],http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 動物星球[1920x1080],http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 动物星球[1920x1080],http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 動物星球[1920x1080],http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
@@ -229,3 +230,26 @@ TVBS新聞台, http://122.117.71.103:8548/http/61.222.53.250:8081/hls/75/817/ch5
 桂林新闻綜合, https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 南宁公共, http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 北海经济科教, https://play-a2.quklive.com:443/live/1727311690820146.m3u8
+
+☘️國際频道,#genre#
+WildEarth,https://wildearth-xumo.amagi.tv/master.m3u8
+WildEarth,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+CGNTV Chinese,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+RT Documentary English,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+i24NEWS English World,https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+Bloomberg TV Asia Live Event,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia.m3u8
+DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+TV5Monde Pacific,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+Euronews English,https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+Euronews English,https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+Euronews English,https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
+NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+BBC News,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
+
