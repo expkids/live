@@ -236,10 +236,15 @@ TVBS新聞台, http://122.117.71.103:8548/http/61.222.53.250:8081/hls/75/817/ch5
 ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
 ABC News Live,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
 BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC News,https://stream1.freetv.fun/0b6b9ae49ca9bf24e6fa0060f1be139ab3668ad367afa02fa5e7407c6eebddb4.m3u8
+BBC News,https://stream1.freetv.fun/3fb619b19ffafed5e48547fb307201687690c1c40f4ae989b8c90ed270757097.m3u8
+BBC News,https://stream1.freetv.fun/3ff9144f6dcba9eb1bde65774014dbe98ad583e5d953ec3399cde3aa2ea14e61.m3u8
+
 A&E,https://tvpass.org/live/AEEast/hd
 Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia.m3u8
 Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 Bloomberg TV Asia Live Event,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+Reuters News,https://stream1.freetv.fun/1c74ae614a6dd3699bbb328e1ff0c8089792d504940e578d6aaeecac95d00dfa.m3u8
 CGNTV Chinese,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
@@ -264,7 +269,18 @@ TV5Monde Pacific,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/va
 WildEarth,https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 WildEarth,https://wildearth-xumo.amagi.tv/master.m3u8
 WildEarth,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+WildEarth,https://stream1.freetv.fun/0763ff472e35d9b39dbe2f78171512ec3f844927a3627e3389d6e55cd1c68bc3.m3u8
 
+BBC 4 (UK),https://stream1.freetv.fun/049c277e332a47b2db56aa92ce86a9d004f0edfaab1e79ff4f86e503c0233e0d.m3u8
+BBC Earth,https://stream1.freetv.fun/7ab314dffe41c2c850533b7b9aa28c97704b751eee651e6c7c57aac886707985.m3u8
+BBC Earth,https://stream1.freetv.fun/6851810a7db0fb97bcf83e791a7f8b6c94c82bffee08d7fdb5883026cd35f096.m3u8
+BBC Lifestyle,https://stream1.freetv.fun/03a945fd56154f8627e3ff3ff2ad54bfec49423819d3b5b934e6eb669b186879.m3u8
+BBC Lifestyle,https://stream1.freetv.fun/7da14b93f070bb08fd471d54b3b098f92a846aa5a5e7e3ad3ed2db54cc43014a.m3u8
+
+
+Discovery Channel UK,https://stream1.freetv.fun/3c53d9847168ee2c4bbab57b1617c614535080f2d419fa5938e2fd5f12d1223b.m3u8
+
+Sky Sports tennis UK,https://stream1.freetv.fun/4627f932d169ffb1a73b0294b5fc3277c7f7d6e8064a3e4319a66a079f1d336d.m3u8
 
 📺中国频道,#genre#
 CCTV-1,https://rmplive.hljtv.com/live/gannan.m3u8
