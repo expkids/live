@@ -1,4 +1,10 @@
 📺中国频道,#genre#
+CCTV-1,https://rmplive.hljtv.com/live/gannan.m3u8
+CCTV-13,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb
+CCTV-13,https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&amp;txSecret=067c1cd334fe2f8773d9452993e86c78
+CCTV-13,https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
+CCTV-13,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
+CCTV-13,https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 七台河新闻综合,https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
 七台河新闻综合,https://rmplive.hljtv.com/live/qitaihe.m3u8
 七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
@@ -10,7 +16,6 @@
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp;txSecret=7e4590b2320037d7ce49ce9eac2dd6c0
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州影视,https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=65797d58&txSecret=6fee6e4ead49f4ccfb8113f0a580acb3
-广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb
 之江纪录,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 云南卫视,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
@@ -34,7 +39,7 @@
 项城新闻,https://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8?zbid=978354&tpid=1651937429#
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
