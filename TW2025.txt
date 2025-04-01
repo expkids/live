@@ -122,7 +122,16 @@ HBO Asia臺灣地區頻道,https://stream1.freetv.fun/ca38481f4b5ff01e9a6c73d84b
 HBO Asia臺灣地區頻道,https://stream1.freetv.fun/57ca07e223b443089d2c744959eed35cef467e77fe2334c1fb0597ddcfffab39.m3u8
 HBO 原創[1920x1080],http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO 原創[1920x1080],http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-
+Love Nature,https://stream1.freetv.fun/0c552589b4fcf164ed142e83d60eeb4e0fe7569f82dfb443b89ae78eb3c7abce.m3u8
+Love Nature,https://stream1.freetv.fun/457074a301c7047148d666d3f3d719f18ccf5b87b857453b854103d60e2bb241.m3u8
+Love Nature,https://stream1.freetv.fun/e28cadf098e0fa3ad81ca707b506baf5c724984a56106af9277a196fe0bde210.m3u8
+Love Nature,https://stream1.freetv.fun/3d405176b122c7c679354b266e52cc6583d6689daae5a5744cd59f93aa592071.m3u8
+Love Nature,https://stream1.freetv.fun/767001fd5f948b143d971f8d62f2209de3e313e01f478c0139f556bf09ebe845.m3u8
+Love Nature,https://stream1.freetv.fun/2e37ff89d6a1e5d6f1b7a3268b983005fd5a1dcd53a0bfff8d2a7d7f2a77b9d8.m3u8
+Love Nature,https://stream1.freetv.fun/b7c862d77522bb4eb385226c1f6f1c64c5e955b151c3b01cff7621aa0e83e3a6.m3u8
+Love Nature,https://stream1.freetv.fun/87d579967081ff5b32bab0daa8ffe78e34cea8cf5f988ecbc049539ea55e9857.m3u8
+Love Nature,https://stream1.freetv.fun/b395444e812c106932e74d89abc6636d90a79f67be3f729b0c11926e452a485c.m3u8
+Love Nature,https://stream1.freetv.fun/ed084207c7b0a7fb1af6a1b34908e189adc97ebabcc1a2476a3802a44491c17b.m3u8
 好萊塢電影[1920x1080],http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 好萊塢電影[1920x1080],http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 好萊塢電影[1920x1080],http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
