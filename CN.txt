@@ -1,5 +1,4 @@
 📺中国频道,#genre#
-2025-04-10 15:50:35,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
