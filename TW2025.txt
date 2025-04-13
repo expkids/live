@@ -258,6 +258,7 @@ ELTV生活英語台,http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
 ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
 ABC News Live,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
 BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC News Asia Pacific,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC News,https://stream1.freetv.fun/0b6b9ae49ca9bf24e6fa0060f1be139ab3668ad367afa02fa5e7407c6eebddb4.m3u8
 BBC News,https://stream1.freetv.fun/3fb619b19ffafed5e48547fb307201687690c1c40f4ae989b8c90ed270757097.m3u8
 BBC News,https://stream1.freetv.fun/3ff9144f6dcba9eb1bde65774014dbe98ad583e5d953ec3399cde3aa2ea14e61.m3u8
@@ -270,12 +271,14 @@ CGNTV Chinese,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379
 CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CNA International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+Discovery Science,http://doubleclicktv.live:80/70376812/52663544/469
 DW English,http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 Euronews English,https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
 Euronews English,https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 Euronews English,https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 Fox News Channel,https://stream1.freetv.fun/4cf1bb3e11824f673ef31de57e1c6172121aad3a4b0dfd21dd72bf6bb36b6ea2.m3u8
+Eurosport,http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 Fox News Channel,https://stream1.freetv.fun/50aec1ecf6a424245763cae4a8bcaa4bf2860a8b120eda0aa4d42dbb8f936130.m3u8
 Fox News Channel,https://stream1.freetv.fun/06884d428b5551c97199028b8c6699e1b201671c1560b56962b47b3d104039e2.m3u8
 Fox News Channel,https://stream1.freetv.fun/f0f1e8276233189e9c82ed10a3708a2984f51dc3e3845e7f56ae42d950def072.m3u8
@@ -297,6 +300,7 @@ NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 Peace TV English,https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 RT Documentary English,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 RT Documentary English,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+RT New,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 TV5Monde Pacific,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
 WildEarth,https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
@@ -321,6 +325,10 @@ CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork
 ESPN,http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
 ESPN NEWS,http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 US MTV LIVE,http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
+Love Pets 🇺🇸,https://bit.ly/3uVGkoY?profile=inspirationFreetv.m3u8
+Pet Lovers tv 🇧🇷,https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+Tv + Pet 🇧🇷,https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
 📺中国频道,#genre#
 CCTV-1,https://stream1.freetv.fun/ed56f455ae3fdab6f18723bceb3da6c3ee2e7ad0914baa05f5a533c02f6f303d.m3u8
