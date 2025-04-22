@@ -209,7 +209,10 @@ Tv + Pet 🇧🇷,https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u
 
 📺中国频道,#genre#
 CCTV-1,https://stream1.freetv.fun/ed56f455ae3fdab6f18723bceb3da6c3ee2e7ad0914baa05f5a533c02f6f303d.m3u8
-
+CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8
+CCTV1,http://58.210.168.86:10800/newlive/live/hls/1/live.m3u8
+CCTV1,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8
+CCTV1,https://stream1.freetv.fun/rthk33-1.m3u8
 CCTV-1,https://stream1.freetv.fun/72451e1a972fb80d97e1ac1f2adc469ec07bf8e075deb9c13cfd72c332c2953f.m3u8
 
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
