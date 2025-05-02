@@ -177,9 +177,6 @@ TVBS News,https://stream1.freetv.fun/695aa6bfeb7ec222b341b4772bca18c18a1d6cbac2a
 2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 3AW Melbourne (1080p),https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 6PR Perth (1080p),https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-Arirang TV (1080p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang TV UN (1080p),https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-NEW K-POP (1080p),https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 BBC News North America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC News Asia Pacific,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -213,9 +210,8 @@ France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/mas
 France 24 English,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
 
 i24NEWS English World,https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
-NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+
 WildEarth,https://stream1.freetv.fun/0763ff472e35d9b39dbe2f78171512ec3f844927a3627e3389d6e55cd1c68bc3.m3u8
 BBC Earth,https://stream1.freetv.fun/6851810a7db0fb97bcf83e791a7f8b6c94c82bffee08d7fdb5883026cd35f096.m3u8
 BBC Lifestyle,https://stream1.freetv.fun/7da14b93f070bb08fd471d54b3b098f92a846aa5a5e7e3ad3ed2db54cc43014a.m3u8
@@ -508,8 +504,11 @@ NHK BS4K,https://stream1.freetv.fun/3f86f9b6cd6f2f56055ace7c3096a1c110943e292859
 NHK BS4K,https://stream1.freetv.fun/158552eda596f9eefbbfd576f2d0d35ca861332ed5ca4102cc8655b234e92b57.m3u8
 NHK BS4K,https://stream1.freetv.fun/6e25e558f46b01e9fd67d85fdc36b21f9fc77d11259dd85222ea74c59d66b11d.m3u8
 NHK Education,https://stream1.freetv.fun/d8904a0b8df431224e31311cfaca252c9f02b7baa319f67409c30f8494c7259b.m3u8
+
+NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 NHK World,https://stream1.freetv.fun/9e453be1a2d5e0aeffd5b6166bb20edf6c31f3b9b702809e057037eed4ddb4f4.m3u8
 NHK World,https://stream1.freetv.fun/5e86b323dce4edcffa7bcba0d3b98016fcfe336b10b25ca080beb485adb4d294.m3u8
+NHK World Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 NHK World Japan,https://stream1.freetv.fun/5771cace20085c3d69005cf6c4bfba7db7298a140d201926b6dead7d45444a4e.m3u8
 NHK World Japan,https://stream1.freetv.fun/7e770172fd32dc700012d8993d1c5175e7083eb164b2814108986495382c8f35.m3u8
 NHK World Japan,https://stream1.freetv.fun/6e93be6a1a86bb4c9e852d5207d3eeef3dff0364ffdd1a05b087538f68f343fd.m3u8
@@ -575,6 +574,9 @@ Sana TV,https://stream1.freetv.fun/310573e3c1f71eb3b1b0fa19d3cb13d02a6ad7f2346ce
 
 
 🍎韓國,#genre#
+
+Arirang TV UN (1080p),https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang TV,https://stream1.freetv.fun/686174cbca118e20765a08aae611fc7c563febf3b3808c291d0a277368b17c9f.m3u8
 Arirang TV,https://stream1.freetv.fun/45512091e7ec7f157905f6bc7da1fcb0894bcddf90b4eec22131299cbe64b344.m3u8
 Arirang TV,https://stream1.freetv.fun/ca09c6b3b352c2d8ba63a68f855484125a2ea22e522ca4dd80b35ab2ac92653b.m3u8
@@ -624,6 +626,7 @@ GS SHOP Korea,https://stream1.freetv.fun/525276c6d36fd6bcb3d9769bde7a02964c05c74
 Good TV,https://stream1.freetv.fun/f24e4b66146a3883d8cc207c57a10cfb64beb86c65be47a35a7590cde7ab2009.m3u8
 Inet TV,https://stream1.freetv.fun/296765e221a7abdbf2e60528671f6d70dd6641dea5cd1a8b3ff5e43dfd3c20b8.m3u8
 Inet TV,https://stream1.freetv.fun/f300c80faab6db546559ca8a8020d07d71bf7792e13e5d953c03d5639dba3160.m3u8
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS,https://stream1.freetv.fun/a31aee4c79d5c3bbc38d9bca849a045b00bd1be394ffb436647493bd18f18eeb.m3u8
 KCTV,https://stream1.freetv.fun/cc07811a6b27d4b7ca2e1df70e93c41560f4844c620fc45221651fa73ad99211.m3u8
 KIDS-TV,https://stream1.freetv.fun/a054bfe7aaf0608e0a539101a3fdb8ced5481a85cbd3331e3eb638fbead78b2a.m3u8
@@ -633,6 +636,7 @@ KTV,https://stream1.freetv.fun/8b94e656a3b23a544b9d6bca248668ce24e8caa3eb666eb42
 KTV,https://stream1.freetv.fun/a11eeadf95f2d70458bf9c5bcea3277845a5fa81c7ff8c2f31d1c7946adfed4a.m3u8
 Korea TV,https://stream1.freetv.fun/d76cf4e7535d685785ab293c5b015eacfa08ac5ccbd7609f198c81add0ce3778.m3u8
 Korea TV,https://stream1.freetv.fun/318384888a398c094722b98ca5f7ac8da3ce6e18e540dfdccd46aee7b63f3307.m3u8
+K-POP,https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 MBC Drama,https://stream1.freetv.fun/3d960c052951f80010dd8ef441104ae2fa435d371cef25c3820f33473d4b34a8.m3u8
 MBC Drama,https://stream1.freetv.fun/49d3f9ed3bc61c37d7a0f49f2b5564fbbeda7b5e10ede128d90c5fc271878255.m3u8
 OCN Movies,https://stream1.freetv.fun/b8eb43e2eb88f89a63a0902acf9ec20ec03f56813e0d0aa64bd820701e0e8bdf.m3u8
