@@ -290,7 +290,7 @@ CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?t
 CCTV-7,https://stream1.freetv.fun/2cf50ef1adbadb0dc2a849b66216f30261588c6394c5fb550a6fc2e09dbad9f7.m3u8
 CCTV-7,http://113.140.12.230:8888/newlive/live/hls/8/live.m3u8
 CCTV-8,http://183.237.95.108:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
-
+CCTV-8,http://111.9.163.109:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,https://stream1.freetv.fun/41ddb44886b0e1b86e7cb3e2e1163e52d56a90e32b203e159c709f501d4c867b.m3u8
 
 CCTV-8,https://stream1.freetv.fun/16ce7a79d2fb02653cbbd81553872390bc8910f5054969356170ae99c2f175fe.m3u8
