@@ -12,9 +12,13 @@ ABC News[1280x720],http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA675
 亞洲旅遊台[1280x720],http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 
 DISCOVERY频道[1920x1080],https://stream1.freetv.fun/439f0a77e0adef8edcc0d5a948fb8384b391a134a0036013e58cf0bc2bfcab1e.m3u8
-BBC[1280x720],http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+BBC,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
 Bloomberg[1920x1080],http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
 Bloomberg[1920x1080],http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
+Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia.m3u8
+Bloomberg TV Asia Live Event,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 中視新聞[1280x720],http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 CBS HD[1280x720],http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
 CBSN[1280x720],http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
@@ -208,9 +212,14 @@ France 24 English,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/maste
 France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-
+FashionTV ,https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 i24NEWS English World,https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-
+National Geographic,http://62.210.211.188:2095/play/a00d
+National Geographic East,http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+National Geographic Wild East,http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+NatureTime,https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+MUTV (720p),https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 WildEarth,https://stream1.freetv.fun/0763ff472e35d9b39dbe2f78171512ec3f844927a3627e3389d6e55cd1c68bc3.m3u8
 BBC Earth,https://stream1.freetv.fun/6851810a7db0fb97bcf83e791a7f8b6c94c82bffee08d7fdb5883026cd35f096.m3u8
@@ -220,6 +229,7 @@ World Fishing Network,https://stream1.freetv.fun/c3911f1e3f5b64e7b59c565e0a39b51
 World Fishing Network,https://stream1.freetv.fun/d618b2a068034ddd92efd5c9acf263575a62a9fb9a00ad6f73f7ebdb10deb9c0.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 Pet Lovers tv 🇧🇷,https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+The Pet Collective,https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
 Tv + Pet 🇧🇷,https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
 
