@@ -1,6 +1,8 @@
 🌶体育频道,#genre#
+CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
+CCTV5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+,http://39.165.196.149:9003//hls/16/index.m3u8
 CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
@@ -36,6 +38,7 @@ CCTV风云足球,http://222.173.108.238:352/tsfile/live/0119_1.m3u8
 快乐垂钓,http://nas.hssvm.com:8888/udp/225.1.2.18:5002
 快乐垂钓,http://wouu.net:9977/udp/239.93.1.151:5140
 快乐垂钓,http://36.105.100.208:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://api2.52tb.xyz/info?id=375&amp;amp;token=20230120rdbtgv
 iHOT爱体育,http://146.56.165.66:7788/TVOD/2000000004000000060/hnbblive/index.m3u8
 咪咕4K,http://dsj.motem.top:8880/itv/3000000010000015686.m3u8
