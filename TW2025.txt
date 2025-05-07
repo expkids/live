@@ -7,6 +7,8 @@ CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+,http://39.165.196.149:9003//hls/16/index.m3u8
 CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
 CCTV风云足球,http://222.173.108.238:352/tsfile/live/0119_1.m3u8
+劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
+劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
 劲爆体育,http://150.230.250.89:50001/TVOD/5000000002000029972/bestzb/index.m3u8
 劲爆体育,http://goo.bkpcp.top/mg/jbty
@@ -20,12 +22,16 @@ CCTV风云足球,http://222.173.108.238:352/tsfile/live/0119_1.m3u8
 精品体育,http://111.43.126.240:9003/hls/89/index.m3u8
 睛彩竞技,http://138.2.61.159:5000/1000000006000270001/ystenlive/index.m3u8
 睛彩竞技,http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8?
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
 广东体育,http://113.64.146.6:2024/hls/39/index.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://113.64.146.94:2024/hls/39/index.m3u8
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
+魅力足球,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
 魅力足球,http://120.76.248.139/live/bfgd/4200000633.m3u8
 魅力足球,http://115.150.63.77:9902/tsfile/live/1030_1.m3u8
 魅力足球,http://146.56.165.66:7788/TVOD/5000000011000031207/bestzb/index.m3u8
