@@ -1,52 +1,10 @@
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-
-美國中文,https://jpts.sinovision.net/livestream.m3u8
-台視,http://125.227.210.55:8158/VideoInput/play.ts
-
-
-
-
-天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-
-
-
-
-
-三立臺灣臺,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
-三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
-
-DISCOVE ASIA,http://125.227.210.55:8154/VideoInput/play.ts
-CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
-CNBC,http://125.227.210.55:8152/VideoInput/play.ts
-HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
-緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
-
-Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-華視,http://125.227.210.55:8163/VideoInput/play.ts
-公視,http://125.227.210.55:8164/VideoInput/play.ts
-BBC new,http://125.227.210.55:8165/VideoInput/play.ts
-CNN new,http://125.227.210.55:8166/VideoInput/play.ts
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-RRI NET,http://125.227.210.55:8172/VideoInput/play.ts
-NTV,http://125.227.210.55:8173/VideoInput/play.ts
-中視,http://125.227.210.55:8174/VideoInput/play.ts
-aaa,http://125.227.210.55:8175/VideoInput/play.ts
-TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
-食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
-TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-
-
-
-
-Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-
-
-
-
-TV5台,http://125.227.210.55:15533/VideoInput/play.ts
-YTN台,http://125.227.210.55:17478/VideoInput/play.ts
-NHK JAPAN台,http://125.227.210.55:35802/VideoInput/play.ts
-HD台,http://125.227.210.55:39004/VideoInput/play.ts
-KOREA台,http://125.227.210.55:48553/VideoInput/play.ts
+1,http://125.227.210.55:8171/VideoInput/play.ts
+2,http://125.227.210.55:8172/VideoInput/play.ts
+3,http://125.227.210.55:8173/VideoInput/play.ts
+4,http://125.227.210.55:8174/VideoInput/play.ts
+5,http://125.227.210.55:8175/VideoInput/play.ts
+6,http://125.227.210.55:8176/VideoInput/play.ts
+7,http://125.227.210.55:8177/VideoInput/play.ts
+8,http://125.227.210.55:8178/VideoInput/play.ts
+9,http://125.227.210.55:8179/VideoInput/play.ts
+0,http://125.227.210.55:8170/VideoInput/play.ts
