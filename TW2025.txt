@@ -4,6 +4,7 @@ CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+CCTV 5+,http://125.227.210.55:8177/VideoInput/play.ts
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+,http://39.165.196.149:9003//hls/16/index.m3u8
 CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
@@ -61,7 +62,8 @@ ABC News[1280x720],http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA675
 動物星球[1920x1080],http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 動物星球[1920x1080],http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 動物星球[1920x1080],http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MF9F9255818592558185&ct=19344&tsum=749eaebb64cf95e20862c56226a8446e
-阿里郎 Arirang[1280x720],http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+Arirang,http://125.227.210.55:48553/VideoInput/play.ts
+Arirang,http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 亞洲旅遊台[1280x720],http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亞洲旅遊台[1280x720],http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亞洲旅遊台[1280x720],http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
@@ -102,7 +104,8 @@ CNN[1280x720],http://50.7.234.10:8278/cnn_twn/playlist.m3u8?tid=ME9E159075611590
 探索科學[1280x720],http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 探索科學[1280x720],http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 Discovery_Science[1920x1080],http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MEDE7333306673333066&ct=19254&tsum=c17c57e395a30ccf636418530f7811a9
-DiscoveryAsia[1280x720],http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+DiscoveryAsia,http://125.227.210.55:8154/VideoInput/play.ts
+DiscoveryAsia,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 愛爾達影劇HD[1280x720],http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 愛爾達影劇[1280x720],http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
 愛爾達體育2[1280x720],http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
@@ -141,8 +144,9 @@ DiscoveryAsia[1280x720],http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?t
 民視臺灣[1280x720],http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=ME1E7840524878405248&ct=19234&tsum=2f1d9e430f55fa8a953df69b021c4c36
 HBO 家庭[1920x1080],http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 ELEVEN 體育[1280x720],http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-HBO HD[1920x1080],http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO HD[1920x1080],http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
 HBO 原創[1920x1080],http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO 原創[1920x1080],http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
@@ -170,7 +174,7 @@ HBO 原創[1920x1080],http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid
 年代新聞[1920x1080],http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新闻[1920x1080],http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞[1920x1080],http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=ME7E9182640991826409&ct=19234&tsum=4bc66c7c1f629232c2c2ce6aa7d024a5
-
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立都會[1920x1080],http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 三立台灣[1920x1080],http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立台灣台[1920x1080],http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
@@ -182,15 +186,19 @@ TLC 旅遊生活[1280x720],http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=ME1
 
 台視[1280x720],http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 台視[1280x720],http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
-TVBS歡樂[1920x1080],http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-TVBS歡樂[1920x1080],http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
-TVBS新聞[1920x1080],http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 
-TVBS新聞[1920x1080],http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-TVBS新聞[1920x1080],http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS新聞[1920x1080],http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新聞台,http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新聞台,http://122.117.71.103:8548/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 
-TVBS新聞[1920x1080],http://122.117.71.103:8548/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+TVBS NEWS,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS NEWS, http://61.221.215.25:8800/hls/9/index.m3u8
 緯來日本[1920x1080],http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBEB7017910870179108&ct=19346&tsum=f7186077b9ae7cdb1970969bd90a4d0a
 緯來電影[1920x1080],http://50.7.234.10:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
 緯來電影[1920x1080],http://50.7.234.10:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
@@ -200,11 +208,12 @@ Viu6[1920x1080],http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630
 東森幼幼[1920x1080],http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=ME8E9672303196723031&ct=19344&tsum=91c7ab24e915643c77c2b0eed8de7137
 中視 HD[1280x720],http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中視 HD[1280x720],http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+華視,http://125.227.210.55:8163/VideoInput/play.ts
 中視新聞[1280x720],http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MECE2153391221533912&ct=19234&tsum=fe5df13ec0ca4298acf881a53128f2cd
 中視經典[1280x720],http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中視經典[1280x720],http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=MECE1189477111894771&ct=19234&tsum=582d215df269921b0c0ce288b5fac94a
 中視經典[1280x720],http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-TVBS NEWS, http://61.221.215.25:8800/hls/9/index.m3u8
+
 
 
 
@@ -212,10 +221,11 @@ TVBS NEWS, http://61.221.215.25:8800/hls/9/index.m3u8
 2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 3AW Melbourne (1080p),https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 6PR Perth (1080p),https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+BBC news,http://125.227.210.55:8165/VideoInput/play.ts
 BBC News North America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC News Asia Pacific,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
+Bloomberg TV Asia,http://125.227.210.55:8161/VideoInput/play.ts
 Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 CBS News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 CBS News,https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
@@ -228,6 +238,8 @@ CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CNA International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNN news,http://125.227.210.55:8166/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 Discovery Science,http://doubleclicktv.live:80/70376812/52663544/469
 
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -255,6 +267,14 @@ Pet Lovers tv 🇧🇷,https://video04.logicahost.com.br/petloverstv/petloverstv
 The Pet Collective,https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
 Tv + Pet 🇧🇷,https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+SPOTV2,http://125.227.210.55:8176/VideoInput/play.ts
+TVRI Sulawesi,http://125.227.210.55:8172/VideoInput/play.ts
+TVRI Riau,http://125.227.210.55:8173/VideoInput/play.ts
+TV5 MONDA,http://125.227.210.55:15533/VideoInput/play.ts
+KBS WORLD,http://125.227.210.55:17478/VideoInput/play.ts
+NHK WORLDJAPAN,http://125.227.210.55:35802/VideoInput/play.ts
 
 📺中国频道,#genre#
 
@@ -288,13 +308,14 @@ CCTV-3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
 CCTV-3,http://183.237.95.108:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3,http://222.134.19.31:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 4,http://125.227.210.55:8175/VideoInput/play.ts
 CCTV-4,http://tvbox6.icu/tv/migu.php?id=cctv4o
 CCTV-4,http://tvbox6.icu/tv/migu.php?id=cctv4a
 CCTV-4,http://ms.fxim.net:808/hls/4/index.m3u8
 CCTV-4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://tvbox6.icu/tv/migu.php?id=cctv5
 CCTV-5,https://stream1.freetv.fun/62690505ebeacb4c0bd10b458fe443822fd7c26e9ec1d96e5d1a23137418e4a7.m3u8
-
+CCTV 5+,http://125.227.210.55:8177/VideoInput/play.ts
 CCTV-5,http://58.213.65.146:352/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV-5,http://222.134.19.31:352/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://tvbox6.icu/tv/migu.php?id=cctv5p
