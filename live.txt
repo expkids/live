@@ -1,1 +1,122 @@
 
+華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+
+國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+緯來日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+東森綜合,http://220.134.196.147:9553/.m3u8
+TVBS歡樂,http://125.227.210.55:50619/VideoInput/play.ts
+公視台語台,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
+大愛2,http://gg.gg/HeNeiIPTV-Da_Ai_Er_Tai_HD
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+美國中文,https://jpts.sinovision.net/livestream.m3u8
+台視,http://125.227.210.55:8158/VideoInput/play.ts
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
+東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
+東森超視,rtmp://f13h.mine.nu/sat/tv521
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+ELTA體育2,rtmp://f13h.mine.nu/sat/md011
+ELEVEN2,rtmp://f13h.mine.nu/sat/md021
+博斯網球,rtmp://f13h.mine.nu/sat/md031
+ELTA體育3,rtmp://f13h.mine.nu/sat/md041
+ELTA體育1,rtmp://f13h.mine.nu/sat/md051
+緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+民視,rtmp://twcdn.top/sat/tv051
+台視,rtmp://twcdn.top/sat/tv071
+中視,rtmp://twcdn.top/sat/tv091
+華視,rtmp://twcdn.top/sat/tv111
+東森超視,rtmp://twcdn.top/sat/tv331
+ELEVEN體育1,rtmp://twcdn.top/sat/tv731
+ELEVEN體育2,rtmp://twcdn.top/sat/tv741
+非凡新聞,rtmp://twcdn.top/sat/tv581
+愛爾達體育1,rtmp://twcdn.top/sat/md051
+民視第一,rtmp://twcdn.top/sat/md041
+緯來育樂,rtmp://twcdn.top/sat/tv701
+緯來日本,rtmp://twcdn.top/sat/tv771
+緯來體育,rtmp://twcdn.top/sat/tv721
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+SPOTIFY MUSIC,http://61.221.215.25:8800/hls/1/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第1,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+三立臺灣臺,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+DISCOVE ASIA,http://125.227.210.55:8154/VideoInput/play.ts
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+華視,http://125.227.210.55:8163/VideoInput/play.ts
+公視,http://125.227.210.55:8164/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+RRI NET,http://125.227.210.55:8172/VideoInput/play.ts
+NTV,http://125.227.210.55:8173/VideoInput/play.ts
+中視,http://125.227.210.55:8174/VideoInput/play.ts
+http://125.227.210.55:8175/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+韓國台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TV5台,http://125.227.210.55:15533/VideoInput/play.ts
+YTN台,http://125.227.210.55:17478/VideoInput/play.ts
+NHK JAPAN台,http://125.227.210.55:35802/VideoInput/play.ts
+HD台,http://125.227.210.55:39004/VideoInput/play.ts
+KOREA台,http://125.227.210.55:48553/VideoInput/play.ts
+Mainu台,http://125.227.210.55:51359/VideoInput/play.ts
