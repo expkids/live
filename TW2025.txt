@@ -214,6 +214,8 @@ Viu6[1920x1080],http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630
 中視經典[1280x720],http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=MECE1189477111894771&ct=19234&tsum=582d215df269921b0c0ce288b5fac94a
 中視經典[1280x720],http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
 
