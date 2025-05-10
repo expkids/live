@@ -1,6 +1,6 @@
-1,https://gh-proxy.com/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M
-2,https://gh-proxy.com/proxy?do=yt&url=https://youtu.be/m_dhMSvUCIc
-3,https://gh-proxy.com/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M
-4,https://gh-proxy.com/proxy?do=yt&url=https://youtu.be/vr3XyVCR4T0
-5,https://gh-proxy.com/proxy?do=yt&url=https://youtu.be/uDqQo8a7Xmk
-6,https://gh-proxy.com/proxy?do=yt&url=https://youtu.be/bKLftRxcy3k?feature=shared
+1,https://youtu.be/ViJ3XiN6Q3M
+2,https://youtu.be/m_dhMSvUCIc
+3,https://youtu.be/ViJ3XiN6Q3M
+4,https://youtu.be/vr3XyVCR4T0
+5,https://youtu.be/uDqQo8a7Xmk
+6,https://youtu.be/bKLftRxcy3k?feature=shared
