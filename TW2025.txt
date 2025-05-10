@@ -536,15 +536,15 @@ AXN,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e37
 
 
 YouTube頻道,#genre#
-東森購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M#https://tv.iill.top/4gtv/173
+東森購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M#https://tv.iill.top/4gtv/173,"playerType":2
 東森購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_Vlzn9qAHD4#https://tv.iill.top/4gtv/287
 東森購物三台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/Z50JFuNgvB0#https://tv.iill.top/4gtv/174
 東森購物五台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/u0NYyH3ZesE#https://tv.iill.top/4gtv/286
-MOMO購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_pZQ1Lk0xMA
+MOMO購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_pZQ1Lk0xMA,"playerType":2
 MOMO購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xbNWkUyxQGM
 TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/m_dhMSvUCIc#https://today.line.me/tw/v2/article/jggMBa
-東森新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/V1p33hqPrUk
-中天新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/vr3XyVCR4T0
+東森新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/V1p33hqPrUk,"playerType":2
+中天新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/vr3XyVCR4T0,"playerType":2
 
 
 CNA,https://stream1.freetv.fun/92cc442300c5880e302814cdf279ce0ee183c2dec3802661e8c7dd601d2a9652.m3u8
