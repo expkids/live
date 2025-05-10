@@ -1,6 +1,10 @@
-1,https://youtu.be/ViJ3XiN6Q3M
-2,https://youtu.be/m_dhMSvUCIc
-3,https://youtu.be/ViJ3XiN6Q3M
-4,https://youtu.be/vr3XyVCR4T0
-5,https://youtu.be/uDqQo8a7Xmk
-6,https://youtu.be/bKLftRxcy3k?feature=shared
+1,http://125.227.210.55:8141/VideoInput/play.ts
+2,http://125.227.210.55:8142/VideoInput/play.ts
+3,http://125.227.210.55:8143/VideoInput/play.ts
+4,http://125.227.210.55:8144/VideoInput/play.ts
+5,http://125.227.210.55:8145/VideoInput/play.ts
+6,http://125.227.210.55:8146/VideoInput/play.ts
+7,http://125.227.210.55:8147/VideoInput/play.ts
+8,http://125.227.210.55:8148/VideoInput/play.ts
+9,http://125.227.210.55:8149/VideoInput/play.ts
+0,http://125.227.210.55:8140/VideoInput/play.ts
