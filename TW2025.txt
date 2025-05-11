@@ -536,15 +536,25 @@ AXN,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e37
 
 
 YouTube頻道,#genre#
-東森購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M#https://tv.iill.top/4gtv/173,"playerType":2
-東森購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_Vlzn9qAHD4#https://tv.iill.top/4gtv/287
-東森購物三台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/Z50JFuNgvB0#https://tv.iill.top/4gtv/174
-東森購物五台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/u0NYyH3ZesE#https://tv.iill.top/4gtv/286
-MOMO購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_pZQ1Lk0xMA,"playerType":2
-MOMO購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xbNWkUyxQGM
-TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/m_dhMSvUCIc#https://today.line.me/tw/v2/article/jggMBa
-東森新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/V1p33hqPrUk,"playerType":2
-中天新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/vr3XyVCR4T0,"playerType":2
+ ABC News,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec167e906c45ce88f174ea.m3u8
+ CNBC USA,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec16d4906c45ce88f174eb.m3u8
+ Sky News,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1735906c45ce88f174ec.m3u8
+ Al Jazeera English,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1789906c45ce88f174ed.m3u8
+ France 24 English,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec187d906c45ce88f174ef.m3u8
+ Mirror Now,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec199d906c45ce88f174f3.m3u8
+ CBC News,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1a19906c45ce88f174f5.m3u8
+ ABC News Australia,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1aaf906c45ce88f174fa.m3u8
+ NDTV,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1b8d906c45ce88f174fc.m3u8
+ NDTV Profit,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec360d6b6d4c4c757bc21a.m3u8
+ Bloomberg Television,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec37366b6d4c4c757bc21b.m3u8
+ Euronews,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec39386b6d4c4c757bc222.m3u8
+ Times Now,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec3a116b6d4c4c757bc223.m3u8
+ Times Of India,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec3bc16b6d4c4c757bc227.m3u8
+ PBS News Hour,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec431f6b6d4c4c757bc239.m3u8
+ CGTN Europe,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec455d6b6d4c4c757bc23d.m3u8
+ LiveNOW from FOX,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67f025011035e1cdf0f3a77c.m3u8
+ Schwab Network,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec40d56b6d4c4c757bc233.m3u8
+ Fox News,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67f4bf8b9defc1332da88070.m3u8
 
 
 CNA,https://stream1.freetv.fun/92cc442300c5880e302814cdf279ce0ee183c2dec3802661e8c7dd601d2a9652.m3u8
