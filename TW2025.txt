@@ -548,6 +548,7 @@ YouTube頻道,#genre#
  台視新聞 (Taiwan TTV News),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/681b7493ec230c991e409481.m3u8
  中天新闻台,https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/68206353efe94a7a0f860213.m3u8
  Test yt,https://www.youtube.com/EuronewsUSA/live
+ 寰宇新聞,https://lihi1.com/3EQc8 
 
 
 CNA,https://stream1.freetv.fun/92cc442300c5880e302814cdf279ce0ee183c2dec3802661e8c7dd601d2a9652.m3u8
