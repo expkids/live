@@ -547,13 +547,8 @@ YouTube頻道,#genre#
  中視新聞 (CTV News),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/6815d3068cf97102856b2d7e.m3u8
  台視新聞 (Taiwan TTV News),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/681b7493ec230c991e409481.m3u8
  中天新闻台,https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/68206353efe94a7a0f860213.m3u8
-1,https://www.youtube.com/EuronewsUSA/live
-2,https://www.youtube.com/abcNEWS/live
-3,https://www.youtube.com/cbsNEWS/live
-4,https://www.youtube.com/nbcNEWS/live
-5,https://www.youtube.com/france24english/live
-6,https://www.youtube.com/NDTV/live
-7,https://www.youtube.com/TVBS/live
+ Test yt,https://www.youtube.com/EuronewsUSA/live
+
 
 CNA,https://stream1.freetv.fun/92cc442300c5880e302814cdf279ce0ee183c2dec3802661e8c7dd601d2a9652.m3u8
 meWATCH LIVE 1 (1080p),https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
