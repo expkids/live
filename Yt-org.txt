@@ -1,0 +1,24 @@
+Euronews,https://www.youtube.com/EuronewsUSA/live
+abcNEWS,https://www.youtube.com/abcnews/live
+CBSnews,https://www.youtube.com/cbsnews/live
+NBCnews,https://www.youtube.com/nbcnews/live
+France24,https://www.youtube.com/france24english/live
+NDTV,https://www.youtube.com/NDTV/live
+TVBSnews,https://www.youtube.com/tvbs/live
+
+TVBS新聞台, https://www.youtube.com/watch?v=2mCSYvcfhtc
+民視新聞台, https://www.youtube.com/watch?v=ylYJSBUgaMA
+TVBS NEWS,https://www.youtube.com/live/m_dhMSvUCIc
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+iNEWS新聞,https://www.youtube.com/watch?v=pF507BLtbqU
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+中視新聞,https://www.youtube.com/watch?v=AGdxQWYSrI8
+台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
+
+
+
+
+
