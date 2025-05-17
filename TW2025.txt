@@ -479,7 +479,7 @@ NHK World Japan,https://api.m3use.projectmoose.xyz/m3u/sdharani/News/68123b7ca2e
 NHK World Japan,https://api.m3use.projectmoose.xyz/m3u/bastisoo/Sebastian M3U/68123b7ca2ef16a7cffaa747.m3u8
 NHK World Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 NHK World Japan,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-
+NHK World JAPAN,https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 
 
 
