@@ -475,7 +475,8 @@ CCTV-17,http://220.164.192.48:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=
 GSTV (720p), https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
 QVC Japan (720p),https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
+NHK World Japan,https://api.m3use.projectmoose.xyz/m3u/sdharani/News/68123b7ca2ef16a7cffaa747.m3u8
+NHK World Japan,https://api.m3use.projectmoose.xyz/m3u/bastisoo/Sebastian M3U/68123b7ca2ef16a7cffaa747.m3u8
 NHK World Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 
