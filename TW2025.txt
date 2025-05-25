@@ -213,7 +213,8 @@ ELEVEN 體育[1280x720],http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8?ti
 2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 3AW Melbourne (1080p),https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 6PR Perth (1080p),https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-ABC News[1280x720],http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
+ABC News Live,http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 BBC news,http://125.227.210.55:8165/VideoInput/play.ts
 BBC news,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 BBC News North America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -270,6 +271,9 @@ Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 Pet Lovers tv 🇧🇷,https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 The Pet Collective,https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
 Tv + Pet 🇧🇷,https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
+WildEarth,https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+WildEarth,https://wildearth-xumo.amagi.tv/master.m3u8
+WildEarth,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Cinemax,http://125.227.210.55:8151/VideoInput/play.ts
 Cinemax,http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
@@ -279,7 +283,10 @@ TVRI Sulawesi,http://125.227.210.55:8172/VideoInput/play.ts
 TVRI Riau,http://125.227.210.55:8173/VideoInput/play.ts
 TV5 MONDA,http://125.227.210.55:15533/VideoInput/play.ts
 KBS WORLD,http://125.227.210.55:17478/VideoInput/play.ts
+KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
 NHK WORLDJAPAN,http://125.227.210.55:35802/VideoInput/play.ts
+NHK WORLDJAPAN,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 Arirang,http://125.227.210.55:48553/VideoInput/play.ts
 Arirang,http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 
