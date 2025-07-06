@@ -122,7 +122,6 @@ HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
 
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 
-TVBS新聞HD,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.m3u8
 TVBS新聞HD,https://stream1.freetv.fun/9ce7c9473c5bd0ac6fd794aa44816ffca51a25bc72258ff12faf68c8ede2d7a7.ctv
 
 寰宇新聞,https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.m3u8
