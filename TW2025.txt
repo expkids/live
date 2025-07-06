@@ -120,8 +120,6 @@ HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-1.ctv
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
 
-TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
-
 TVBS新聞HD,https://stream1.freetv.fun/9ce7c9473c5bd0ac6fd794aa44816ffca51a25bc72258ff12faf68c8ede2d7a7.ctv
 
 寰宇新聞,https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.m3u8
