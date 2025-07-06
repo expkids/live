@@ -155,7 +155,20 @@ TVBS新聞HD,https://stream1.freetv.fun/9ce7c9473c5bd0ac6fd794aa44816ffca51a25bc
 3AW Melbourne (1080p),https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 6PR Perth (1080p),https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
-
+ABC NEWS,https://stream1.freetv.fun/9a8d3a3f8d3da83dc2789c21602b64c056aa26e25781facad9d8cc170ab15529.m3u8
+ABC NEWS,https://stream1.freetv.fun/7b8ff49b466706c39021f80fcc8708c3e9231004e2236933891e24cabc652b55.m3u8
+ABC NEWS,https://stream1.freetv.fun/b70c9b37709e8cf0d4d9a0293caefd9a4d700d977c23007f1956b607463b77af.ctv
+ABC NEWS 24,https://stream1.freetv.fun/e931efebe7bcb330d558c56ee355dcf11e95f99a42bc89fbb93e28793bff298c.m3u8
+ABC NEWS 24,https://stream1.freetv.fun/5fb3e2dac4f8379a5d0fc1bc59b4054f58c09e2d6b5a45711e0e3837530a448e.m3u8
+ABC News Live,https://stream1.freetv.fun/9847c8384daebe4461e05b70e850640d6ec1eff7740cc5ee944ee519c8126b09.m3u8
+BBC World News,https://stream1.freetv.fun/b262cac2742c8cecb5c3c3e6aebe8ddbb4acb7d8622edc1f8c10b4e5f579a0a4.m3u8
+BBC World News,https://stream1.freetv.fun/d1b6973d4934776443e8452b0bf97392ff8255e0289bf5485c8ac39c5f929437.ctv
+BBC World News,https://stream1.freetv.fun/c64290992c5bdcad80736e5e81b072da86aba84a28e6866a859e4cde8aeaa862.ctv
+BBC World News,https://stream1.freetv.fun/7afd9742c7f421dbe6fb688ffbddf0dbe605997ef71aa09b2942c29f3f0bc7af.ctv
+BBC News HD,https://stream1.freetv.fun/95062cfdd0dd31515aacf821cdd9df058aaa0bb9ea9b1d5b1e93d8a93f38892b.ctv
+BBC News HD,https://stream1.freetv.fun/fe1e9d7f99d9b0afaed805dc530dc0061f5faa10da474bdefcfb0f0a9587fa66.m3u8
+BBC News HD,https://stream1.freetv.fun/609a68c18addd3cf39e229d04597bd9df04e9cb9967272d59d445353c6797e52.m3u8
+BBC News HD,https://stream1.freetv.fun/f2474e2458af120f0df6d17dc99893e67120e57a2419180eaf8a921a4cc133e6.m3u8
 BBC news,http://125.227.210.55:8165/VideoInput/play.ts
 BBC news,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 BBC News North America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -167,7 +180,15 @@ Bloomberg TV Asia,http://125.227.210.55:8161/VideoInput/play.ts
 Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia.m3u8
 Bloomberg TV Asia Live Event,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-
+CBS News,https://stream1.freetv.fun/b7c43b6ec9f5207b065ff03d81c62ea4c860b5ff44941d973f241f5d83e1cd51.m3u8
+CBS News,https://stream1.freetv.fun/ef442403251cc2483f08f68faefdd0a6fc35c245a3655e7ca32af9578257c527.m3u8
+CBS News,https://stream1.freetv.fun/fed58df4daa67e59ae23b568d1a76c84b0f9fa15c024efb5445e271ac6591391.m3u8
+CBS News,https://stream1.freetv.fun/8b7469399146094c41fad2ed944cf9484753c760379b30c3771af958d9e66c27.m3u8
+CBS News,https://stream1.freetv.fun/5b7d8ecbd55b7f2394c7953c9286a139fa05e1c5983942b98c6a263c35c856f8.m3u8
+CBS News,https://stream1.freetv.fun/3e867810230d97e09fec4bf77e00eb3e19c0471f2bf21492f0cd652f4297c746.m3u8
+CBS News,https://stream1.freetv.fun/12ea9fd880f1dc1cebdcac5ff9c56ccf8b61e1f6a0a939708eaca0a044137161.m3u8
+CBS News,https://stream1.freetv.fun/50656663f3621f195770b32d84cd4e3e5df3a65771f30cf116b90683285d2314.m3u8
+CBS News,https://stream1.freetv.fun/2fa13543d227c6445be75fe03a1df58f621d21af0484183c73e46f152c2186e6.m3u8
 CBS News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 CBS News,https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 CBS News,https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
@@ -175,12 +196,34 @@ CBS News,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b5
 CBS News,https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 CBS News,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 CBS News,https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+CNN HD,https://stream1.freetv.fun/d4b9e6735be2ff6b3021b2e1ee0a59864d688185ac89dd98b34454600e4e56f6.m3u8
+CNN HD,https://stream1.freetv.fun/0993fc1c29dddb9f19c3f6f8bc0f631f20d8db6f5fcf3b09698080cce272a349.ctv
+CNN HD,https://stream1.freetv.fun/bd0761e31f0ecf026c5f160b3f442a304da9051f9aff123699bfda00be42b27a.ctv
+CNN HD,https://stream1.freetv.fun/e4ffc222820c80b5606fb6b2d6ece650706876adbf2020de98735cf5fa5f5fee.ctv
+CNN HD,https://stream1.freetv.fun/73f001c08fa4dab9215472d2a7b2b7c5f471285080f447ec7869a2f3abc84560.ctv
+CNN HD,https://stream1.freetv.fun/62a2a9a324181151fb8893964c05c4d3aeffde048e4961f00842d26818b7f588.ctv
+CNN HD,https://stream1.freetv.fun/133235a8a5a446ee9b089c080abe08170e528fa180fd6f76e2b83f07c153d6fc.m3u8
+CNN HD,https://stream1.freetv.fun/32bec01e9413016601b7404d152c092341a38f0e7df73170f1eeaf3943e4bfeb.ctv
+CNN HD,https://stream1.freetv.fun/2224f39d377336d871b4da8aa0913f14c75adf5a779ffa185400506603db0374.m3u8
+CNN HD,https://stream1.freetv.fun/2db6b0ef79044f857c554b986c80578ffd5584e1ff0ee6a29b3535e32549a9db.ctv
+CNBC WORLD,https://stream1.freetv.fun/9296072755fdf90a608ac296cff6974546b611d99a79c01893a95eb16d11fc88.m3u8
+CNBC(USA),https://stream1.freetv.fun/c510b43aeaf723514bb75a320ef4caa59efbd3b6922a7ce36f2fc3bc0422ca86.m3u8
+CNBC(USA),https://stream1.freetv.fun/3a8c0afd63dffbe3607d030934c47b3acc2fdf80ea28df65d15fdd7d08628a45.ctv
+CNBC(USA),https://stream1.freetv.fun/13a159cb2423e87ec195ac8245f73bc7b3c65ecfae5be98062f68c3262fa2dcb.ctv
+CNBC(USA),https://stream1.freetv.fun/ffb589331a9b145ccaab19427628ef5d561ecdd69483f52ac1b0d461288be8cb.m3u8
+CNBC(USA),https://stream1.freetv.fun/9f820061327addae07e53649d2ca965768500459df3567a12e3cb67220e4133f.ctv
+CNBC(USA),https://stream1.freetv.fun/da08bade81d2380d27d30f68e45906243d5b2646c1c5b078deab4490172df8c8.m3u8
+CNA,https://stream1.freetv.fun/d8b66990da8f29a9eae8fef9add9cb28392dc19ba4c56ed61149c88dda834bc9.m3u8
+CNA,https://stream1.freetv.fun/837c58552efe1f7158f9e79debbc5a7cd689d4f78bd877fad6fc8fcf525659d6.ctv
+CNA,https://stream1.freetv.fun/8c4bb87cc37689686affb4b5ab092669890855ac145d7df95f8aae9e5862d61d.m3u8
+CNBC ASIA,https://stream1.freetv.fun/89987466dc6d8294df0f70584681b7b126f31a3220eadcaf17a2d40c7e67e324.ctv
 CNA International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNN news,http://125.227.210.55:8166/VideoInput/play.ts
-CNN,http://50.7.234.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 
@@ -191,18 +234,60 @@ DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/ind
 Euronews English,https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 Eurosport,http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 
+Fox News,https://stream1.freetv.fun/79590b596c3ae886439233ffd107e72c1fef9eb786e2871463d359549d47b4da.ctv
+Fox News Channel,https://stream1.freetv.fun/d96939dc6497425b0bff7f344683de3972425f3ca99772e56690d58b0c6b429a.m3u8
+FOX NEWS NOW,https://stream1.freetv.fun/1d3b6ef0935ec34cddba7cfaa52454bb90515aef8f41d8df6bc258c330f38684.ctv
 
 France 24 English,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-FashionTV ,https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+
 GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-i24NEWS English World,https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+
+Global News,https://stream1.freetv.fun/947bcf43936d01ffc1495649631c41fe42ca197df90098a7b1bec099a6be7e4e.m3u8
+Global News,https://stream1.freetv.fun/6dfb27b02726b25364b04ccecd5ffe293f7b7cfc87e5601eca7dbc2760b6a768.ctv
+Global News,https://stream1.freetv.fun/13d4a0dfe906073e9d68b11594c1c3a54fbfb9e12d2ad09536d9cb384789a184.m3u8
+Global News,https://stream1.freetv.fun/8ed8c8e0bbf86fa466a99c1036bc0885a2bfc6f576ba7629dcddaed9193e87c6.m3u8
+Global News,https://stream1.freetv.fun/2ed5fe8c6c8ffc5097daad19f0cda96e54c994ad975006b01e0f4919a6b8d372.m3u8
+Global News,https://stream1.freetv.fun/b5204f08cbdc3d2dddf44776b5e7d63028ea800c6d3fcb662c27ce51b1a36d9c.m3u8
+Global News,https://stream1.freetv.fun/49c899b7f6cac868e20f838e382b8c6e4c0c823fd503da34195ae698ee8d4006.m3u8
+Global News,https://stream1.freetv.fun/f4d4720712e2bb4b04cbda322d0bb444d52072aca873d9865fc3bb3905bf9d3d.m3u8
+Global News,https://stream1.freetv.fun/fadace0122eac9f33aa750c153187edcfe1e60ade6248ff46e11610aaf3db262.m3u8
+Global News,https://stream1.freetv.fun/e49303d3ddb4cf2dd184387f3682f77f9a9d9443f6fb485ad6587f533cda87f7.m3u8
+Global News,https://stream1.freetv.fun/4072eb402bd4dfb31fb912147e522610e60144e15c6be41986e7034a68e77d77.m3u8
+Global News,https://stream1.freetv.fun/6b3d818388e3265a210c28eb1a8f0c9cb36a1d7e9f9bf350aedb7dba4f2edea1.m3u8
+Global News Toronto,https://stream1.freetv.fun/18390509d031ec7695670795490a45d355592a4b8fec95c872f259c685ce0834.m3u8
+
+
+i24 News,https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+i24 News,https://stream1.freetv.fun/7132294b52decd204361b51a7fc3c462036a7d417c7a8f8744a5751ffa284894.m3u8
+i24 News,https://stream1.freetv.fun/d028319529c7028bdddc76bc11d7e7759bd94e76378420f471f27b53add57985.m3u8
+i24 News,https://stream1.freetv.fun/7fae3a2b2f4afda6099006ab818da85e55e6505a40a273bb9284bb9d59b11696.m3u8
+i24 News,https://stream1.freetv.fun/655fd40d4109b26bfcd70be91b92e630d0d262ef9875750fcac38682b8c08d7a.m3u8
+NBC NEWS,https://stream1.freetv.fun/cbffacff39e1eed7fc702ccb2c7ae031a9142ad93b9f2444c2ad486f3ffa8033.m3u8
+NBC News Now FHD,https://stream1.freetv.fun/eaecfdbaf36cca7bf3b97ad7c02cdd038e29ef2d4a983440d84e7577bf62b288.m3u8
+NBC News Now FHD,https://stream1.freetv.fun/6eacbe18b2fbf02ab6d1ae7870f9e7c0ed9a47f8ff0281223f0b7a3537d69b94.m3u8
+
+FashionTV ,https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+
+
 National Geographic,http://62.210.211.188:2095/play/a00d
 National Geographic East,http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 National Geographic Wild East,http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 NatureTime,https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+NAT GEO WILD,https://stream1.freetv.fun/10c2570da054b22af29947c854ca46f4374735feecad6b95b68f39fb38ca1bf9.m3u8
+NAT GEO WILD,https://stream1.freetv.fun/443fdfacdbbc46dd1043e22d5b8603182d83012cfae0413191b0af841b0c206b.ctv
+NAT GEO WILD,https://stream1.freetv.fun/843ab2be8e2a0d8b4f5434f19a31336deaea5683592d9e1d3a6564d14f553999.ctv
+NAT GEO WILD,https://stream1.freetv.fun/ea3264ca0734772efefc977993eb3eeebe0ac721ef7ded8294826402391e626f.ctv
+NAT GEO WILD,https://stream1.freetv.fun/c5ddd1605629b0016570d4d7773dc9745ee4898754a78f294ff8c77a89299d65.m3u8
+NAT GEO WILD,https://stream1.freetv.fun/448cd7f90a658b2b69a3735796b267ad010efa2872df9f3ad925d7c34c2960b0.m3u8
+
+World Fishing Network,https://stream1.freetv.fun/aaecaa413e44d7e53ae78f7af4eb0841b91be43206db67058b42bcb45ebae030.m3u8
+World Fishing Network,https://stream1.freetv.fun/70d96a31ee59d5ab7815864758f7d64396e823336a2af8cb4d1f98401ec45e53.ctv
+World Fishing Network,https://stream1.freetv.fun/a164e72ceca3fd1b32e332515cb99d2622447827f7b62b3f82099fe7eda2805a.ctv
+World Fishing Network,https://stream1.freetv.fun/97273935abd57ece0dde10e20fd947d86134a2ef4a87bc773d03e350a3375161.ctv
+World Fishing Network,https://stream1.freetv.fun/e9a8c91d7e24231025bd80f49e1d0d1bcae588a31d3ea96308cffe2ad90525c3.ctv
 MUTV, https://stream1.freetv.fun/a8493f96e15da06d4560bdbad223d6a31b3a18befe8074f4991cbb2ac385be0d.ctv
 MUTV, https://stream1.freetv.fun/0b565945fe88f55837a8b44960828f548a938a1e27d2c862d832de001585c2a3.ctv
 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
