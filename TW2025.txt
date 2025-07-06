@@ -68,56 +68,33 @@ DiscoveryAsia,http://125.227.210.55:8154/VideoInput/play.ts
 
 HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 中天新闻,http://jnzq.ohoyee.com:9080/live/fc.m3u8
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
-
-
-
 
 中视新闻,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 中视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
 中视新闻,http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中视新闻,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
 
-
+非凡新闻,https://stream1.freetv.fun/4ff71ea33ebd4af9767ebcbac05330b089b8ccd4a9ccb12a0a0bde31b6dc19b5.ctv
 非凡新闻,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-
 非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/playlist.m3u8
 
-
+台视新闻,https://stream1.freetv.fun/952de5f6c6b137213851db573554b0a143a058f3843c42fc3bb31795d46094ec.m3u8
+台视新闻,https://stream1.freetv.fun/6d45c852234adf9247cfc6eb9b1682de0defb8f84183c6dcf6a39bb24c07af32.m3u8
+台视新闻,https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
-
-
 台视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-
 台视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
-
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-
-
 台视新闻,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv051/index.m3u8
 台视新闻,http://nbtmxdhw.hk3.xyyun.publicvm.com/smt.php?id=ttvnews_twn
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
@@ -125,56 +102,47 @@ HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
 台视新闻,http://jnzq.ohoyee.com:9080/live/ts.m3u8
 台视新闻,http://150.138.77.132:10037/150.php?id=台視新闻
 台视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
-台视新闻,https://live.iill.top/youtube/@TTV_NEWS
-台视新闻,https://live.iill.top/youtube/xL0ch83RAK8
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
-台视新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视新闻HD
-台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
-台视新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视新闻HD
 台视新闻,http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?
-台视新闻,https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
 台视新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv051
 台视新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 
+民视新闻,https://stream1.freetv.fun/53ca0a5de7a07569cee0fb25ff84d53241cdef34fb8ebb2d90ba4151881afb36.ctv
+民视新闻,https://stream1.freetv.fun/33ae9aa2523492a0deb1bebba74b646b746cf674d50b753e7c4c06305d3fe40b.m3u8
+民视新闻,https://stream1.freetv.fun/6959fd8e6fea85a671683e657ea500e2e1043c9e3c552469d4a1bd3c528a0f5a.m3u8
+民视新闻,https://stream1.freetv.fun/ce526fe6e3a9a3f4fd76b9596f3633ed33099480504b141443135ec563b8bc4e.ctv
+民视新闻,https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-
 民视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-
-
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.ctv
-民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-17.ctv
 民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
-
 民视新闻,http://nbtmxdhw.hk3.xyyun.publicvm.com/smt.php?id=ftvnew_taiwan
-
 民视新闻,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
 民视新闻,http://150.138.77.132:10037/150.php?id=民視新闻台
 民视新闻,http://122.117.71.103:8541/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
-民视新闻,https://live.iill.top/youtube/@FTV_News
-民视新闻,https://live.iill.top/youtube/ylYJSBUgaMA
-民视新闻,https://stream1.freetv.fun/min-shi--xin-wen-1.m3u8
-
 民视新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
 民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民视新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视新闻台
-
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-1.ctv
-民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-19.m3u8
-民视新闻,http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
 
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 
-TVBS新聞HD, https://stream1.freetv.fun/9ce7c9473c5bd0ac6fd794aa44816ffca51a25bc72258ff12faf68c8ede2d7a7.ctv
+TVBS新聞HD,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.m3u8
+TVBS新聞HD,https://stream1.freetv.fun/9ce7c9473c5bd0ac6fd794aa44816ffca51a25bc72258ff12faf68c8ede2d7a7.ctv
 
+寰宇新聞,https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.m3u8
+寰宇新聞,https://stream1.freetv.fun/5d77b60fe4211f443d2d9e89570eb756dda950a49f6dfa05132679806873d5aa.ctv
 
-
+年代新聞HD,https://stream1.freetv.fun/dd9e185637bacd1fff5f9967a39843126110775980676e24a609b2709723d44e.ctv
+東森新聞HD,https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.m3u8
+東森新聞臺,https://stream1.freetv.fun/65385bee23ba56eb8df93671087d9311376d8712d9223aa2cca62bc07242e03e.ctv
 華視,http://125.227.210.55:8163/VideoInput/play.ts
 
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
