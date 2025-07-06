@@ -489,16 +489,33 @@ AXN,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e37
 
 YouTube頻道,#genre#
  
- CNBC USA,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec16d4906c45ce88f174eb.m3u8
- Fox News,https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67f4bf8b9defc1332da88070.m3u8
- 民视新闻 (Formosa TV News),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fcb3a5fd569a4e6330ebad.m3u8
- TVBS News,https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fe7c20119ff75ea5075370.m3u8
- 東森新聞 (Taiwan EBC News),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fe81137bf548390e19c9fe.m3u8
- 三立新聞 (Taiwan SET News),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/6809cd9ce1f522d01a8a84a0.m3u8
- 鏡新聞 (mnews Taiwan),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/680bb5415bda46552a55a1bd.m3u8
- 中視新聞 (CTV News),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/6815d3068cf97102856b2d7e.m3u8
- 台視新聞 (Taiwan TTV News),https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/681b7493ec230c991e409481.m3u8
- 中天新闻台,https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/68206353efe94a7a0f860213.m3u8
+TVBS 56頻道,https://www.youtube.com/watch?v=o_-hSMgpAzs
+TVBS新聞網,https://www.youtube.com/watch?v=F5aJ1Y7Z3BI
+TVBS NEWS重點直播,https://www.youtube.com/watch?v=tvYZ1etJR5M
+寰宇新聞台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
+寰宇新聞財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0
+台視午間新聞,https://www.youtube.com/watch?v=ACstmoWR25I
+民視快新聞,https://www.youtube.com/watch?v=W6VjuMlKBBY
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+中天新聞CtiNews,https://www.youtube.com/watch?v=6TqF3udF188
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+NBC News,https://www.youtube.com/watch?v=MNctgBAjQDc
+ABC News,https://www.youtube.com/watch?v=vnfA1GmrI4I
+DW News,https://www.youtube.com/watch?v=LuKwFajn37U
+FRANCE 24 English,https://www.youtube.com/watch?v=Ap-UM1O9RBU
+Sky News,https://www.youtube.com/watch?v=DmNbZwiywSU
+GBN,https://www.youtube.com/watch?v=40A6yjqhs1c
+Euronews English,https://www.youtube.com/watch?v=pykpO5kQJ98
+ANN NEWS,https://www.youtube.com/watch?v=LpxXb7jOoeU
+TBS NEWS,https://www.youtube.com/watch?v=a1jGdrd1TJg
+関西KansaiNews,https://www.youtube.com/watch?v=-29O-q6Qfm8
+Tokyo Stream,https://www.youtube.com/watch?v=ecyzfQM1Wl4
+北海道,https://www.youtube.com/watch?v=7-Vky63lvek
+K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
+KBS,https://www.youtube.com/watch?v=kPHFTZ9sJK4
+CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
  Test yt,https://www.youtube.com/EuronewsUSA/live
  寰宇新聞,https://lihi1.com/3EQc8 
 
