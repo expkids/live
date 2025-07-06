@@ -87,11 +87,10 @@ HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
 台视新闻,https://stream1.freetv.fun/6d45c852234adf9247cfc6eb9b1682de0defb8f84183c6dcf6a39bb24c07af32.m3u8
 台视新闻,https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 台视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-台视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
+
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
