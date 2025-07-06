@@ -131,10 +131,7 @@ TVBS新聞HD,https://stream1.freetv.fun/9ce7c9473c5bd0ac6fd794aa44816ffca51a25bc
 年代新聞HD,https://stream1.freetv.fun/dd9e185637bacd1fff5f9967a39843126110775980676e24a609b2709723d44e.ctv
 東森新聞HD,https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.m3u8
 東森新聞臺,https://stream1.freetv.fun/65385bee23ba56eb8df93671087d9311376d8712d9223aa2cca62bc07242e03e.ctv
-華視,http://125.227.210.55:8163/VideoInput/play.ts
 
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
 
