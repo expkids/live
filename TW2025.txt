@@ -58,6 +58,7 @@ iHOT爱体育,http://146.56.165.66:7788/TVOD/2000000004000000060/hnbblive/index.
 
 ☘️台灣频道,#genre#
 動物星球,https://hls-gateway.vpstv.net/streams/477088.m3u8
+動物星球, https://stream1.freetv.fun/8317efd309ee89f507551612d08eba8a8dd3195efed4d6d28bc6ccff462840cf.ctv
 動物星球,https://stream1.freetv.fun/07c4f561b1265c6c9133d097d4d2d12d389c7c39fda97f3fd3270f08fda5596d.m3u8
 動物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME5E9654770896547708&ct=19338&tsum=775367f2f591f704aaf1489d70434b49
 動物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
@@ -220,7 +221,7 @@ HBO HD,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.ctv
 三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
 三立新闻,http://125.227.210.55:8162/VideoInput/play.ts
-
+中天新聞FHD, https://stream1.freetv.fun/33ae1a4944113bc6be8aee3e1a3bf7f791c13ac48bdd10e7283960fd48e4498a.ctv
 中天新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
 中天新闻,http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
@@ -429,7 +430,7 @@ HBO HD,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
-
+TVBS新聞HD, https://stream1.freetv.fun/9ce7c9473c5bd0ac6fd794aa44816ffca51a25bc72258ff12faf68c8ede2d7a7.ctv
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
@@ -468,9 +469,9 @@ TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601
 TVBS新闻,https://live.tvfix.org/live/tvbsnews/index.m3u8
 TVBS新闻,http://smt.iktv.ddns-ip.net/Smart.php
 TVBS新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8
-
-TVBS NEWS,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS NEWS, http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS News, https://stream1.freetv.fun/5325e5d7ff0449ec19c4c62689170c6410bdfb91394e5b684a473f1633d19252.m3u8
+TVBS News,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS News, http://61.221.215.25:8800/hls/9/index.m3u8
 
 Viu6[1920x1080],http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 衛視中文[1920x1080],http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?tid=MADA3405227034052270&ct=19234&tsum=c34dd09cd30ff781054a12c1a06ab0f6
@@ -544,6 +545,8 @@ National Geographic,http://62.210.211.188:2095/play/a00d
 National Geographic East,http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 National Geographic Wild East,http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 NatureTime,https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+MUTV, https://stream1.freetv.fun/a8493f96e15da06d4560bdbad223d6a31b3a18befe8074f4991cbb2ac385be0d.ctv
+MUTV, https://stream1.freetv.fun/0b565945fe88f55837a8b44960828f548a938a1e27d2c862d832de001585c2a3.ctv
 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
