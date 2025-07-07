@@ -165,7 +165,7 @@ CNN HD,https://stream1.freetv.fun/32bec01e9413016601b7404d152c092341a38f0e7df731
 CNN HD,https://stream1.freetv.fun/2224f39d377336d871b4da8aa0913f14c75adf5a779ffa185400506603db0374.m3u8
 
 
-
+CNA,https://stream1.freetv.fun/92cc442300c5880e302814cdf279ce0ee183c2dec3802661e8c7dd601d2a9652.m3u8
 CNA,https://stream1.freetv.fun/837c58552efe1f7158f9e79debbc5a7cd689d4f78bd877fad6fc8fcf525659d6.ctv
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
