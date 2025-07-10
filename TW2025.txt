@@ -516,13 +516,17 @@ France24,https://www.youtube.com/france24english/live
 FRANCE24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
 
+NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 ANN NEWS,https://www.youtube.com/watch?v=YRqCDWyTSl4
 TBS NEWS,https://www.youtube.com/watch?v=qlOv4CYeRlA
 関西KansaiNews,https://www.youtube.com/watch?v=-29O-q6Qfm8
 Tokyo Stream,https://www.youtube.com/watch?v=PUjm0UyVuho
 北海道,https://www.youtube.com/watch?v=7-Vky63lvek
+
+KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
 K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 KBS,https://www.youtube.com/watch?v=HspPEQd9fFM
+
 CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 
