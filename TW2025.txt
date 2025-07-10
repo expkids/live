@@ -530,6 +530,7 @@ KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
 연합뉴스TV,https://www.youtube.com/watch?v=6QZ_qc75ihU
 K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 KBS,https://www.youtube.com/watch?v=HspPEQd9fFM
+YTN 생방송 뉴스를 보실 수 있습니다,https://www.youtube.com/watch?v=2C2WCLhDsR4
 
 CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
 
