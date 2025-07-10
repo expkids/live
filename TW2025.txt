@@ -511,24 +511,24 @@ TVBS 56頻道,https://www.youtube.com/watch?v=o_-hSMgpAzs
 abcNEWS,https://www.youtube.com/live/iipR5yUp36o?si=5PFM8y_t2uzob2SQ
 DW News,https://www.youtube.com/watch?v=LuKwFajn37U
 Euronews,https://www.youtube.com/live/pykpO5kQJ98?si=rIFGl1vzN-aLDapB
-Euronews,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=pykpO5kQJ98
+Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 France24,https://www.youtube.com/france24english/live
-FRANCE24,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=Ap-UM1O9RBU
-GBN,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=QliL4CGc7iY
+FRANCE24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
+GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
 
-NHK WORLD-JAPAN News,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
-ANN NEWS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=YRqCDWyTSl4
-TBS NEWS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=qlOv4CYeRlA
-関西KansaiNews,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=-29O-q6Qfm8
-Tokyo Stream,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=PUjm0UyVuho
-北海道,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=7-Vky63lvek
+NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+ANN NEWS,https://www.youtube.com/watch?v=YRqCDWyTSl4
+TBS NEWS,https://www.youtube.com/watch?v=qlOv4CYeRlA
+関西KansaiNews,https://www.youtube.com/watch?v=-29O-q6Qfm8
+Tokyo Stream,https://www.youtube.com/watch?v=PUjm0UyVuho
+北海道,https://www.youtube.com/watch?v=7-Vky63lvek
 
-KBS WORLD TV,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=OxQQsIvJTTU
-연합뉴스TV,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=6QZ_qc75ihU
-K-POP,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=JVocS7Yftw8
-KBS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=HspPEQd9fFM
+KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
+연합뉴스TV,https://www.youtube.com/watch?v=6QZ_qc75ihU
+K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
+KBS,https://www.youtube.com/watch?v=HspPEQd9fFM
 
-CNA news,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=XWq5kBlakcQ
+CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 
 Test頻道,#genre#
