@@ -506,25 +506,23 @@ TVBS 56頻道,https://www.youtube.com/watch?v=o_-hSMgpAzs
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 鏡新聞, https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-NBCnews,https://www.youtube.com/live/Dv4jdgcv7UM?si=fD1CgiMLmjNqcQEB
-NBCnews,https://www.youtube.com/watch?v=MNctgBAjQDc
-abcNEWS,https://www.youtube.com/live/iipR5yUp36o?si=5PFM8y_t2uzob2SQ
-abcNEWS,https://www.youtube.com/watch?v=vnfA1GmrI4I
 
+
+abcNEWS,https://www.youtube.com/live/iipR5yUp36o?si=5PFM8y_t2uzob2SQ
 DW News,https://www.youtube.com/watch?v=LuKwFajn37U
 Euronews,https://www.youtube.com/live/pykpO5kQJ98?si=rIFGl1vzN-aLDapB
+Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 France24,https://www.youtube.com/france24english/live
 FRANCE24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
-Sky News,https://www.youtube.com/watch?v=DmNbZwiywSU
-GBN,https://www.youtube.com/watch?v=40A6yjqhs1c
-Euronews English,https://www.youtube.com/watch?v=pykpO5kQJ98
-ANN NEWS,https://www.youtube.com/watch?v=LpxXb7jOoeU
-TBS NEWS,https://www.youtube.com/watch?v=a1jGdrd1TJg
+GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
+
+ANN NEWS,https://www.youtube.com/watch?v=YRqCDWyTSl4
+TBS NEWS,https://www.youtube.com/watch?v=qlOv4CYeRlA
 関西KansaiNews,https://www.youtube.com/watch?v=-29O-q6Qfm8
-Tokyo Stream,https://www.youtube.com/watch?v=ecyzfQM1Wl4
+Tokyo Stream,https://www.youtube.com/watch?v=PUjm0UyVuho
 北海道,https://www.youtube.com/watch?v=7-Vky63lvek
 K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-KBS,https://www.youtube.com/watch?v=kPHFTZ9sJK4
+KBS,https://www.youtube.com/watch?v=HspPEQd9fFM
 CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 
