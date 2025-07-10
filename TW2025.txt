@@ -499,6 +499,7 @@ TVBS選新聞,https://www.youtube.com/watch?v=o_-hSMgpAzs
 中視新聞,https://www.youtube.com/watch?v=AGdxQWYSrI8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+三立LIVE新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
