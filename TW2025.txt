@@ -488,47 +488,47 @@ AXN,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e37
 
 
 YouTube頻道,#genre#
-TVBS新聞台, https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS NEWS, https://www.youtube.com/live/m_dhMSvUCIc 
-TVBS 56頻道,https://www.youtube.com/watch?v=o_-hSMgpAzs
-寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
-寰宇新聞財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0
-台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
-民視新聞台, https://www.youtube.com/watch?v=ylYJSBUgaMA
-中視新聞, https://www.youtube.com/watch?v=AGdxQWYSrI8
-中視新聞, https://www.youtube.com/watch?v=TCnaIE_SAtM
-中天新聞, https://www.youtube.com/watch?v=vr3XyVCR4T0
+TVBS新聞台,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS NEWS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/live/m_dhMSvUCIc 
+TVBS 56頻道,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=o_-hSMgpAzs
+寰宇新聞台,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=Ej3LQM_lTEw
+寰宇新聞財經台,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=EnuEsX3FSh0
+台視新聞台,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=xL0ch83RAK8
+民視新聞台,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+中視新聞,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=AGdxQWYSrI8
+中視新聞,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+中天新聞,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=vr3XyVCR4T0
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
-鏡新聞, https://www.youtube.com/watch?v=5n0y6b0Q25o
+三立iNEWS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=pF507BLtbqU
+公視新聞,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=quwqlazU-c8
+東森新聞,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=V1p33hqPrUk
+東森財經新聞,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=1I2iq41Akmo
+鏡新聞,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 
 
-abcNEWS,https://www.youtube.com/live/iipR5yUp36o?si=5PFM8y_t2uzob2SQ
-DW News,https://www.youtube.com/watch?v=LuKwFajn37U
-Euronews,https://www.youtube.com/live/pykpO5kQJ98?si=rIFGl1vzN-aLDapB
-Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
-France24,https://www.youtube.com/france24english/live
-FRANCE24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
-GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
+abcNEWS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/live/iipR5yUp36o?si=5PFM8y_t2uzob2SQ
+DW News,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=LuKwFajn37U
+Euronews,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/live/pykpO5kQJ98?si=rIFGl1vzN-aLDapB
+Euronews,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=pykpO5kQJ98
+France24,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/france24english/live
+FRANCE24,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=Ap-UM1O9RBU
+GBN,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=QliL4CGc7iY
 
-NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-ANN NEWS,https://www.youtube.com/watch?v=YRqCDWyTSl4
-TBS NEWS,https://www.youtube.com/watch?v=qlOv4CYeRlA
-関西KansaiNews,https://www.youtube.com/watch?v=-29O-q6Qfm8
-Tokyo Stream,https://www.youtube.com/watch?v=PUjm0UyVuho
-北海道,https://www.youtube.com/watch?v=7-Vky63lvek
+NHK WORLD-JAPAN News,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
+ANN NEWS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=YRqCDWyTSl4
+TBS NEWS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=qlOv4CYeRlA
+関西KansaiNews,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=-29O-q6Qfm8
+Tokyo Stream,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=PUjm0UyVuho
+北海道,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=7-Vky63lvek
 
-KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
-연합뉴스TV,https://www.youtube.com/watch?v=6QZ_qc75ihU
-K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-KBS,https://www.youtube.com/watch?v=HspPEQd9fFM
+KBS WORLD TV,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=OxQQsIvJTTU
+연합뉴스TV,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=6QZ_qc75ihU
+K-POP,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=JVocS7Yftw8
+KBS,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=HspPEQd9fFM
 
-CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
+CNA news,http://127.0.0.1:6878/proxy?do=yt&url=https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 
 Test頻道,#genre#
