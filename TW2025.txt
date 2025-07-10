@@ -522,6 +522,7 @@ TBS NEWS,https://www.youtube.com/watch?v=qlOv4CYeRlA
 関西KansaiNews,https://www.youtube.com/watch?v=-29O-q6Qfm8
 Tokyo Stream,https://www.youtube.com/watch?v=PUjm0UyVuho
 北海道,https://www.youtube.com/watch?v=7-Vky63lvek
+日テレNEWS,https://www.youtube.com/watch?v=dbJNyWOUkm8
 
 KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
 연합뉴스TV,https://www.youtube.com/watch?v=6QZ_qc75ihU
