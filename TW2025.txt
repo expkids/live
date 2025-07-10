@@ -507,7 +507,7 @@ TVBS 56頻道,https://www.youtube.com/watch?v=o_-hSMgpAzs
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 
-
+NBC New,https://www.youtube.com/watch?v=wJnymtXQ_x4
 abcNEWS,https://www.youtube.com/live/iipR5yUp36o?si=5PFM8y_t2uzob2SQ
 DW News,https://www.youtube.com/watch?v=LuKwFajn37U
 Euronews,https://www.youtube.com/live/pykpO5kQJ98?si=rIFGl1vzN-aLDapB
