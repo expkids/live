@@ -524,6 +524,7 @@ Tokyo Stream,https://www.youtube.com/watch?v=PUjm0UyVuho
 北海道,https://www.youtube.com/watch?v=7-Vky63lvek
 
 KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
+연합뉴스TV,https://www.youtube.com/watch?v=6QZ_qc75ihU
 K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 KBS,https://www.youtube.com/watch?v=HspPEQd9fFM
 
