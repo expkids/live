@@ -489,31 +489,20 @@ AXN,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e37
 
 YouTube頻道,#genre#
 TVBS新聞台, https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBSnews,https://www.youtube.com/live/yM6erFsFL1w?si=ZwNbvxpSBMpM0mDD
 TVBS NEWS, https://www.youtube.com/live/m_dhMSvUCIc 
-TVBS新聞網,https://www.youtube.com/watch?v=F5aJ1Y7Z3BI
-TVBS NEWS重點直播,https://www.youtube.com/watch?v=tvYZ1etJR5M
 TVBS 56頻道,https://www.youtube.com/watch?v=o_-hSMgpAzs
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
 寰宇新聞財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0
 台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
-台視新聞台, https://www.youtube.com/watch?v=ykHiIlq4jLw
-台視午間新聞,https://www.youtube.com/watch?v=ACstmoWR25I
 民視新聞台, https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞, https://www.youtube.com/watch?v=F0AXTgt_b9Y
-民視快新聞,https://www.youtube.com/watch?v=W6VjuMlKBBY
 中視新聞, https://www.youtube.com/watch?v=AGdxQWYSrI8
 中視新聞, https://www.youtube.com/watch?v=TCnaIE_SAtM
-中天直播, https://www.youtube.com/watch?v=5ke9F8Uudus
 中天新聞, https://www.youtube.com/watch?v=vr3XyVCR4T0
-中天新聞CtiNews,https://www.youtube.com/watch?v=6TqF3udF188
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-三立新聞, https://www.youtube.com/watch?v=6Gfi5PBLT90
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森新聞, https://www.youtube.com/watch?v=PiKs49r0Z60
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 鏡新聞, https://www.youtube.com/watch?v=5n0y6b0Q25o
 
