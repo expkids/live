@@ -504,6 +504,7 @@ TVBS選新聞,https://www.youtube.com/watch?v=o_-hSMgpAzs
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森新聞,https://www.youtube.com/watch?v=E0zhe2gkXBs
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
