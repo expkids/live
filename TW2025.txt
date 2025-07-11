@@ -512,6 +512,7 @@ LiveNOW from FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
 NBC New,https://www.youtube.com/watch?v=wJnymtXQ_x4
 abcNEWS,https://www.youtube.com/watch?v=iipR5yUp36o
 abcNEWS,https://www.youtube.com/live/iipR5yUp36o?si=5PFM8y_t2uzob2SQ
+CBC News,https://www.youtube.com/watch?v=5vfaDsMhCF4
 DW News,https://www.youtube.com/watch?v=LuKwFajn37U
 Euronews,https://www.youtube.com/live/pykpO5kQJ98?si=rIFGl1vzN-aLDapB
 Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
