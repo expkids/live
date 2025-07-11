@@ -520,7 +520,7 @@ FRANCE24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
 
 NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-ANN NEWS,https://www.youtube.com/watch?v=YRqCDWyTSl4
+ANNnewsCH,https://www.youtube.com/watch?v=coYw-eVU0Ks
 TBS NEWS,https://www.youtube.com/watch?v=qlOv4CYeRlA
 関西KansaiNews,https://www.youtube.com/watch?v=-29O-q6Qfm8
 Tokyo Stream,https://www.youtube.com/watch?v=PUjm0UyVuho
