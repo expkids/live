@@ -533,6 +533,7 @@ K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 KBS,https://www.youtube.com/watch?v=HspPEQd9fFM
 YTN 생방송 뉴스를 보실 수 있습니다,https://www.youtube.com/watch?v=2C2WCLhDsR4
 
+ABC7 News Bay Area,https://www.youtube.com/watch?v=YUJl2vWNsWU
 CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 
