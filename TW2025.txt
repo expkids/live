@@ -1,5 +1,5 @@
 🌶体育频道,#genre#
-11111,https://www.youtube.com/watch?v=NoZku1KLoog
+
 CCTV5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8
 CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8
@@ -551,4 +551,4 @@ YTN 생방송 뉴스를 보실 수 있습니다,http://127.0.0.1:9978/proxy?do=y
 
 Test頻道,#genre#
 🍎1,http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
-🍎2,http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
+
