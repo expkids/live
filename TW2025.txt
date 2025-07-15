@@ -489,7 +489,7 @@ AXN,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e37
 
 
 
-🇹🇼台灣:yt:頻道,#genre#
+🇹🇼台灣頻道,#genre#
 TVBS新聞台,http://127.0.0.1:9978/proxy?do=yt&proxy=socks://127.0.0.1:10172&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=socks://127.0.0.1:10172&url=https://www.youtube.com/live/m_dhMSvUCIc 
 TVBS選新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=socks://127.0.0.1:10172&url=https://www.youtube.com/watch?v=o_-hSMgpAzs
