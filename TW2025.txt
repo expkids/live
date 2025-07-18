@@ -490,7 +490,7 @@ AXN,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e37
 
 
 
-Test頻道,#genre#
+TestMPEG-TS頻道,#genre#
 🍎1,http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
 
 TestHLS頻道,#genre#
