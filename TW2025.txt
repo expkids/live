@@ -490,8 +490,8 @@ AXN,https://stream1.freetv.fun/55192febcadd0695d7ac54099d2cd1f613f443f98789d5e37
 
 
 
-TestMPEG-TS頻道,#genre#
-🍎1,http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+MPEG-TS頻道,#genre#
+🍎CBS News,http://127.0.0.1:6878/ace/getstream?id=eb28274faf2678b824214e12d2faa396b7b535e1
 
- Tennis頻道,#genre#
-🍎2,http://127.0.0.1:6878/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+HLS頻道,#genre#
+🍎Tennis,http://127.0.0.1:6878/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
