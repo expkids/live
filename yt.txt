@@ -55,10 +55,10 @@ ANNnewsCH,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 🇰🇷韓國頻道,#genre#
 KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
-KBS News,https://www.youtube.com/watch?v=jOnWjJcDpW4
+
 연합뉴스TV,https://www.youtube.com/watch?v=6QZ_qc75ihU
 K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-KBS,https://www.youtube.com/watch?v=HspPEQd9fFM
+
 YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
 YTN dmb,https://www.youtube.com/watch?v=2C2WCLhDsR4
 
