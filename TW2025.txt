@@ -519,7 +519,8 @@ KOMPASTV,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=4
 东京新宿,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=DjdUEyjx8GM
 台灣地震監視,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=Owke6Quk7T0
 
-
+Test頻道,#genre#
+TVBS NEWS LIVE,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 MPEG-TS頻道,#genre#
 🍎CBS News,http://127.0.0.1:6878/ace/getstream?id=eb28274faf2678b824214e12d2faa396b7b535e1
