@@ -74,5 +74,50 @@ Explore Africa,https://www.youtube.com/watch?v=DsNtwGJXTTs
 Relaxing Nature In 4K,https://www.youtube.com/watch?v=p8wt6jUjgB4
 
 
+🐭Misc,#genre#
+HOY TV 76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8 
+HOY TV 77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY TV 78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+港台電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+
+Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+BBC News Asia Pacific,https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
+TV5Monde Pacifique,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+Bloomberg TV,https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
+CBN News National,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+FOX Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
+Global Fashion Channel,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+K-POP,https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+K.MOVIES,https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
+FashionTV Europe,https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+
+GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
+NBC News NOW,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+
+BBC News (North America)https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+NBA TV Canada,http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+ABC News,https://c.mjh.nz/abc-news.m3u8
+
+
+Test頻道,#genre#
+TVBS NEWS LIVE,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+MPEG-TS頻道,#genre#
+🍎CBS News,http://127.0.0.1:6878/ace/getstream?id=eb28274faf2678b824214e12d2faa396b7b535e1
+🍎SKY Sports,http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+HLS頻道,#genre#
+🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
+
+
 
 
