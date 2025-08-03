@@ -33,7 +33,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 🇨🇦CBC News,https://www.youtube.com/watch?v=5vfaDsMhCF4
 🇩🇪DW News,https://www.youtube.com/watch?v=LuKwFajn37U
 🇪🇺Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
-🇫🇷France24,https://www.youtube.com/france24english/live
+🇫🇷France24,https://www.youtube.com/france%2024%20english/live
 🇫🇷FRANCE24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 🇶🇦Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 🇸🇬CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
@@ -116,6 +116,7 @@ MPEG-TS頻道,#genre#
 
 HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
