@@ -94,6 +94,10 @@ Global Fashion Channel,https://pubgfc.teleosmedia.com/linear/globalfashionchanne
 
 K-POP,https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 K.MOVIES,https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
+
+FashionTV Europe,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+FashionTV Europe,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+FashionTV Europe,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 FashionTV Europe,https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 
 GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
@@ -122,6 +126,7 @@ MPEG-TS頻道,#genre#
 
 HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
