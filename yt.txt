@@ -88,6 +88,9 @@ Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern
 BBC News Asia Pacific,https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 TV5Monde Pacifique,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
+France 24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
 CBN News National,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 FOX Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
 Global Fashion Channel,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
@@ -126,6 +129,7 @@ MPEG-TS頻道,#genre#
 
 HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
