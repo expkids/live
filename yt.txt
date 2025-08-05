@@ -34,6 +34,8 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 🇩🇪DW News,https://www.youtube.com/watch?v=LuKwFajn37U
 🇪🇺Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 🇫🇷France24,https://www.youtube.com/france%2024%20english/live
+🇫🇷France 24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+🇫🇷France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 🇫🇷FRANCE24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 🇶🇦Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 🇸🇬CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
@@ -50,7 +52,9 @@ HTB北海道新聞,https://www.youtube.com/watch?v=7-Vky63lvek
 ANNnewsCH,https://www.youtube.com/watch?v=coYw-eVU0Ks
 広島ニュース,https://www.youtube.com/watch?v=e2pgLUmaxGs
 愛知・岐阜・三重の最新,https://www.youtube.com/watch?v=-C6FE2m7kX8
-
+NHK World-Japan,https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
+NHK World-Japan,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3
+NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 
 🇰🇷韓國頻道,#genre#
@@ -88,12 +92,8 @@ Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern
 BBC News Asia Pacific,https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 TV5Monde Pacifique,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
-France 24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-NHK World-Japan,https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
-NHK World-Japan,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3
-NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
 
 CBN News National,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 FOX Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
@@ -133,6 +133,7 @@ MPEG-TS頻道,#genre#
 
 HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
