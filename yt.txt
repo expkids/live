@@ -23,7 +23,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 🌐英語頻道,#genre#
 🇬🇧GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
 🇺🇸FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
-🇺🇸NBC New,https://www.youtube.com/watch?v=1mZ5KfOQ7mk
+🇺🇸NBC New,https://www.youtube.com/watch?v=491aBjwv8wE
 🇺🇸abcNEWS,https://www.youtube.com/watch?v=iipR5yUp36o
 🇺🇸ABC7,https://www.youtube.com/watch?v=s3iVFJoxrYc
 🇺🇸Bloomberg News,https://www.youtube.com/watch?v=DxmDPrfinXY
@@ -133,6 +133,7 @@ MPEG-TS頻道,#genre#
 
 HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
