@@ -36,11 +36,13 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 🇺🇸CBSnews,https://www.youtube.com/cbsnews/live
 🇺🇸CBSnews,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 🇺🇸CNBC,https://www.youtube.com/watch?v=9NyxcX3rhQs
+🇺🇸Euronews,https://www.youtube.com/EuronewsUSA/live
 🇺🇸News 12,https://www.youtube.com/watch?v=1GkcsMJTFiI
 🇨🇦CBC News,https://www.youtube.com/watch?v=5vfaDsMhCF4
 🇨🇦Global News Toronto,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a
 🇦🇺Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 🇩🇪DW News,https://www.youtube.com/watch?v=LuKwFajn37U
+
 
 🇪🇺Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 🇫🇷France24,https://www.youtube.com/france24english/live
@@ -193,6 +195,7 @@ MPEG-TS頻道,#genre#
 
 HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
