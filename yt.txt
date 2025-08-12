@@ -58,7 +58,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 
 🇯🇵日本頻道,#genre#
 NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-TBS NEWS DIG,https://www.youtube.com/watch?v=wcuhuw9XSKY
+TBS NEWS DIG,https://www.youtube.com/watch?v=H-p5sUMaz64
 日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 ABCテレビニュース,https://www.youtube.com/watch?v=-29O-q6Qfm8
 HTB北海道新聞,https://www.youtube.com/watch?v=7-Vky63lvek
@@ -196,6 +196,7 @@ MPEG-TS頻道,#genre#
 HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
