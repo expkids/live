@@ -25,7 +25,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 🇬🇧GBN,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 🇬🇧NBC News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 🇺🇸FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
-🇺🇸NBC New,https://www.youtube.com/watch?v=491aBjwv8wE
+🇺🇸NBC New,https://www.youtube.com/watch?v=ktIvYcZmJ9o
 🇺🇸NBC New,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 🇺🇸abcNEWS,https://www.youtube.com/abcnews/live
 🇺🇸abcNEWS,https://www.youtube.com/watch?v=iipR5yUp36o
@@ -196,6 +196,7 @@ MPEG-TS頻道,#genre#
 HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
