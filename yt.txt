@@ -33,7 +33,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 🇺🇸Bloomberg News,https://www.youtube.com/watch?v=DxmDPrfinXY
 🇺🇸Bloomberg Television,https://www.youtube.com/watch?v=iEpJwprxDdk
 🇺🇸CBN News National,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-🇺🇸CBSnews,https://www.youtube.com/cbsnews/live
+🇺🇸CBSnews,https://www.youtube.com/watch?v=PO_inVjZBBQ
 🇺🇸CBSnews,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 🇺🇸CNBC,https://www.youtube.com/watch?v=9NyxcX3rhQs
 🇺🇸Euronews,https://www.youtube.com/EuronewsUSA/live
@@ -205,6 +205,7 @@ HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
