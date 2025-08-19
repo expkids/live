@@ -1,6 +1,5 @@
 🇹🇼台灣頻道,#genre#
 TVBS新聞台Live,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBSnews,https://www.youtube.com/watch?v=IamMkBCFjFQ
 TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -205,6 +204,7 @@ HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
