@@ -140,30 +140,9 @@ ABC News,https://c.mjh.nz/abc-news.m3u8
 
 Sports頻道,#genre#
 🇨🇿Canal+ Sport 2,http://78.130.250.2:8023/play/a02w/index.m3u8
-🇫🇷Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
-🇬🇷ERT Sports 1,http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-🇬🇷ERT Sports 2,http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 
 🇮🇹Rai Sport,https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-🇳🇿Sky Sport 1,http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
-
-🇳🇿Sky Sport 2,http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
-
-🇳🇿Sky Sport 3,https://hls.sheepland.xyz/play/0/15?proxy=0
-
-🇳🇿Sky Sport 4,https://hls.sheepland.xyz/play/0/36?proxy=0
-
-🇳🇿Sky Sport 5,http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
-
-🇳🇿Sky Sport 6,https://hls.sheepland.xyz/play/0/70?proxy=0
-
-🇳🇿Sky Sport 7,https://hls.sheepland.xyz/play/0/66?proxy=0
-
-🇳🇴Auto Motor Sport,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7954-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419fb478-b5bb-4f2f-b6f0-d53563fbc250
-
-🇵🇱Eleven Sports 1,http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
 
 
 🇺🇸CBS Sports,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -178,7 +157,6 @@ Sports頻道,#genre#
 
 🇺🇸Fox Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 
-🇺🇸Fox Sports 1,https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 Speed Sport 1,https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 Sport Fishing,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
@@ -202,6 +180,7 @@ HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
