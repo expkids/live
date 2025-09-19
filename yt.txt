@@ -81,7 +81,7 @@ YTN dmb,https://www.youtube.com/watch?v=2C2WCLhDsR4
 
 Nat Geo Animals,https://www.youtube.com/watch?v=0QcBs9Ulgcw
 National Geographic,https://www.youtube.com/watch?v=COtW-y631JA
-Discovery,https://www.youtube.com/watch?v=OQw06l-21Js
+Discovery,https://www.youtube.com/watch?v=YUNYDpVBh3M
 Animal Planet,https://www.youtube.com/watch?v=57JcUSp9KCw
 Love Nature,https://www.youtube.com/watch?v=vBnErz43N1A
 Explore Africa,https://www.youtube.com/watch?v=DsNtwGJXTTs
@@ -202,6 +202,7 @@ HLS頻道,#genre#
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 
 
 
