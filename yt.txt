@@ -164,22 +164,7 @@ Xtrem Sports,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca141
 
 
 
-MPEG-TS頻道,#genre#
-🍎CBS News,http://127.0.0.1:6878/ace/getstream?id=eb28274faf2678b824214e12d2faa396b7b535e1
-🍎CBS News,http://127.0.0.1:6878/ace/getstream?id=eb28274faf2678b824214e12d2faa396b7b535e1
-🍎CBS News,http://127.0.0.1:6878/ace/getstream?id=eb28274faf2678b824214e12d2faa396b7b535e1
 
-
-F1 MPEG-TS頻道,#genre#
-🍎F1,http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-🍎F1,http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-🍎F1,http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-
-
-HLS頻道,#genre#
-🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-🍎F1,http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
