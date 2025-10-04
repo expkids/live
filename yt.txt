@@ -126,7 +126,10 @@ Bloomberg TV,https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.
 Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 NBA TV Canada,http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 ABC News,https://c.mjh.nz/abc-news.m3u8
-
+🇬🇧BBC One, https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+🇬🇧BBC Two, https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+🇬🇧BBC Three, https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+🇬🇧BBC Four, https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
 Sports頻道,#genre#
 🇨🇿Canal+ Sport 2,http://78.130.250.2:8023/play/a02w/index.m3u8
@@ -145,6 +148,7 @@ Sport Fishing,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca14
 Xtrem Sports,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 🇺🇸CBS Sports HQ, http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 🇺🇸CBS Sports Network, https://fl25.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 
 
 
