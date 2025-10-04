@@ -19,33 +19,22 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 
 🌐英語頻道,#genre#
 🇬🇧GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
-🇬🇧GBN,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-🇬🇧NBC News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
-🇺🇸FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
-🇺🇸NBC New,https://www.youtube.com/watch?v=ktIvYcZmJ9o
-🇺🇸NBC New,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+🇺🇸FOX,https://www.youtube.com/watch?v=UfleL7I9d2U
+🇺🇸NBC New,https://www.youtube.com/watch?v=ATBxS2JbNr4
 🇺🇸abcNEWS,https://www.youtube.com/abcnews/live
 🇺🇸abcNEWS,https://www.youtube.com/watch?v=iipR5yUp36o
 🇺🇸ABC7,https://www.youtube.com/watch?v=s3iVFJoxrYc
 🇺🇸Bloomberg News,https://www.youtube.com/watch?v=DxmDPrfinXY
 🇺🇸Bloomberg Television,https://www.youtube.com/watch?v=iEpJwprxDdk
-🇺🇸CBN News National,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-🇺🇸CBSnews,https://www.youtube.com/watch?v=PO_inVjZBBQ
-🇺🇸CBSnews,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 🇺🇸CNBC,https://www.youtube.com/watch?v=9NyxcX3rhQs
 🇺🇸Euronews,https://www.youtube.com/EuronewsUSA/live
 🇺🇸News 12,https://www.youtube.com/watch?v=1GkcsMJTFiI
 🇨🇦CBC News,https://www.youtube.com/watch?v=5vfaDsMhCF4
-🇨🇦Global News Toronto,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a
-🇦🇺Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 🇩🇪DW News,https://www.youtube.com/watch?v=LuKwFajn37U
 
 
 🇪🇺Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 🇫🇷France24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
-🇫🇷France 24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-🇫🇷France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-🇫🇷FRANCE24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 🇶🇦Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 🇸🇬CNA news,https://www.youtube.com/watch?v=XWq5kBlakcQ
 🇰🇷Arirang TV ,https://www.youtube.com/watch?v=CJVBX7KI5nU
@@ -161,6 +150,7 @@ Sports頻道,#genre#
 Speed Sport 1,https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 Sport Fishing,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 Xtrem Sports,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
 
 
 
