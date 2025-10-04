@@ -19,6 +19,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 
 🌐英語頻道,#genre#
 🇬🇧GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
+🇬🇧NBC News Now, https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 🇺🇸FOX,https://www.youtube.com/watch?v=UfleL7I9d2U
 🇺🇸NBC New,https://www.youtube.com/watch?v=ATBxS2JbNr4
 🇺🇸abcNEWS,https://www.youtube.com/abcnews/live
@@ -144,6 +145,7 @@ Sport Fishing,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca14
 Xtrem Sports,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 🇺🇸CBS Sports HQ, http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 🇺🇸CBS Sports Network, https://fl25.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 
 
 
