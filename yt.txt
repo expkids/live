@@ -20,8 +20,8 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 🌐英語頻道,#genre#
 🇬🇧GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
 🇬🇧NBC News Now, https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-🇺🇸FOX,https://www.youtube.com/watch?v=baNySiBUP0Y
-🇺🇸NBC New,https://www.youtube.com/watch?v=a_bvmBLCrcQ
+🇺🇸FOX,https://www.youtube.com/watch?v=i2G7wWjZrDM
+🇺🇸NBC New,https://www.youtube.com/watch?v=ObAWq8EvQRc
 🇺🇸abcNEWS,https://www.youtube.com/abcnews/live
 🇺🇸abcNEWS,https://www.youtube.com/watch?v=iipR5yUp36o
 🇺🇸ABC7,https://www.youtube.com/watch?v=s3iVFJoxrYc
@@ -157,6 +157,7 @@ LA 1 4K, http://127.0.0.1:6878/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d08
 M+ LIGA DE CAMPEONES 4K, http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29
 T€st 4k, http://127.0.0.1:6878/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
 SIBERIA 4K [RU, http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
+
 
 
 
