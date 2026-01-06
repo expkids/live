@@ -4,6 +4,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
 台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 三立LIVE新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
@@ -157,6 +158,7 @@ LA 1 4K, http://127.0.0.1:6878/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d08
 M+ LIGA DE CAMPEONES 4K, http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29
 T€st 4k, http://127.0.0.1:6878/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
 SIBERIA 4K [RU, http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
+
 
 
 
