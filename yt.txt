@@ -1,6 +1,6 @@
 🇹🇼台灣頻道,#genre#
-TVBS新聞台Live,https://gh-proxy.com//www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS選新聞Live,https://www.youtube.com/watch?v=o_-hSMgpAzs
+TVBS新聞台Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS選新聞Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -157,6 +157,7 @@ LA 1 4K, http://127.0.0.1:6878/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d08
 M+ LIGA DE CAMPEONES 4K, http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29
 T€st 4k, http://127.0.0.1:6878/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
 SIBERIA 4K [RU, http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
+
 
 
 
