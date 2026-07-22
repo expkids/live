@@ -1,7 +1,7 @@
 🇹🇼台灣頻道,#genre#
-TVBS新聞台Live,https://raw.githubusercontent.com/expkids/ChiSheng/master/TV82.m3u8
-TVBS選新聞Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
+TVBS新聞台Live,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS選新聞Live,https://www.youtube.com/watch?v=m_dhMSvUCIc
+台視新聞台,https://www.youtube.com/watch?v=MaTO_CAzqJA
 民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -12,7 +12,7 @@ TVBS選新聞Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 寰宇新聞台Live,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台24小時新聞,https://www.youtube.com/watch?v=Ej3LQM_lTEw
-寰宇新聞財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0
+寰宇新聞財經台,https://www.youtube.com/watch?v=yAUQQ0DhPxI
 
 
 
