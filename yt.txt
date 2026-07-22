@@ -63,7 +63,7 @@ KBS News,https://www.youtube.com/watch?v=MuYY4L6C8ro
 연합뉴스TV,https://www.youtube.com/watch?v=6QZ_qc75ihU
 K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 
-YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
+YTN,https://www.youtube.com/watch?v=nSFcxAvIc4E
 YTN dmb,https://www.youtube.com/watch?v=2C2WCLhDsR4
 
 
