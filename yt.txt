@@ -69,14 +69,14 @@ YTN dmb,https://www.youtube.com/watch?v=2C2WCLhDsR4
 
 🌏記錄頻道,#genre#
 
-Nat Geo Animals,https://www.youtube.com/watch?v=THooYCltViI
-National Geographic,https://www.youtube.com/watch?v=FqQJmDiW0xs
-Discovery,https://www.youtube.com/watch?v=OAGKo77jJJA
-Animal Planet,https://www.youtube.com/watch?v=NjRo4XeBpJ8
-BBC Earth, https://www.youtube.com/watch?v=OFDCRxs7Y4Y
+Nat Geo Animals,https://www.youtube.com/watch?v=J4IYwyEUwrI
+National Geographic,https://www.youtube.com/watch?v=eVty8-fUGJY
+Discovery,https://www.youtube.com/watch?v=OnI-uUxJZuE
+Animal Planet,https://www.youtube.com/watch?v=QlhY8Ecxs28
+BBC Earth, https://www.youtube.com/watch?v=1LhlXiSc5NY
 Love Nature,https://www.youtube.com/watch?v=vBnErz43N1A
 Explore Africa,https://www.youtube.com/watch?v=DsNtwGJXTTs
-Relaxing Nature In 4K,https://www.youtube.com/watch?v=p8wt6jUjgB4
+Relaxing Nature In 4K,https://www.youtube.com/watch?v=vdeJ3QY6w6g
 
 
 🐭Misc,#genre#
