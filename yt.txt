@@ -18,15 +18,15 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 🌐英語頻道,#genre#
-🇬🇧GBN,https://www.youtube.com/watch?v=QliL4CGc7iY
+🇬🇧GBN,https://www.youtube.com/watch?v=I8E6eDmhegY
 🇬🇧NBC News Now, https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-🇺🇸FOX,https://www.youtube.com/watch?v=i2G7wWjZrDM
+🇺🇸FOX,https://www.youtube.com/watch?v=c5OMMGk2cSc
 🇺🇸NBC New,https://www.youtube.com/watch?v=ObAWq8EvQRc
 🇺🇸abcNEWS,https://www.youtube.com/abcnews/live
 🇺🇸abcNEWS,https://www.youtube.com/watch?v=iipR5yUp36o
 🇺🇸ABC7,https://www.youtube.com/watch?v=s3iVFJoxrYc
 🇺🇸Bloomberg News,https://www.youtube.com/watch?v=DxmDPrfinXY
-🇺🇸Bloomberg Television,https://www.youtube.com/watch?v=iEpJwprxDdk
+🇺🇸Bloomberg Television,https://www.youtube.com/watch?v=QB5BNdBFujE
 🇺🇸CNBC,https://www.youtube.com/watch?v=9NyxcX3rhQs
 🇺🇸Euronews,https://www.youtube.com/EuronewsUSA/live
 🇺🇸News 12,https://www.youtube.com/watch?v=JEtvLd4B-AY
