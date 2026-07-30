@@ -71,7 +71,7 @@ YTN dmb,https://www.youtube.com/watch?v=2C2WCLhDsR4
 
 Nat Geo Animals,https://www.youtube.com/watch?v=J4IYwyEUwrI
 National Geographic,https://www.youtube.com/watch?v=eVty8-fUGJY
-Discovery,https://www.youtube.com/watch?v=OnI-uUxJZuE
+Discovery,https://www.youtube.com/watch?v=0IaZpvpPVGs
 Animal Planet,https://www.youtube.com/watch?v=QlhY8Ecxs28
 BBC Earth, https://www.youtube.com/watch?v=1LhlXiSc5NY
 River Monsters™, https://www.youtube.com/watch?v=iXn6hdpo8Pg
