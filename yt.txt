@@ -149,6 +149,8 @@ Xtrem Sports,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca141
 
 ai短劇,#genre#
 父皇，我要节制天下兵马, https://www.youtube.com/watch?v=y3OlfyEZSQQ
+玄甲开太平, https://www.youtube.com/watch?v=y3OlfyEZSQQ
+卸甲后百万边军迎我回北境, https://www.youtube.com/watch?v=KvblY0IHAfY
 
 🇺🇳4K,#genre#
 DAZN F1 4K, http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
