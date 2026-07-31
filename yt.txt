@@ -147,7 +147,8 @@ Xtrem Sports,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca141
 🇺🇸CBS Sports HQ, http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 🇺🇸CBS Sports Network, https://fl25.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-
+ai短劇,#genre#
+父皇，我要节制天下兵马, https://www.youtube.com/watch?v=y3OlfyEZSQQ
 
 🇺🇳4K,#genre#
 DAZN F1 4K, http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
