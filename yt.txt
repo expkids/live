@@ -44,17 +44,15 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 🇯🇵日本頻道,#genre#
-NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-TBS NEWS DIG,https://www.youtube.com/watch?v=49g7iFAuB0U
+NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=IimtbuqYIE8
+TBS NEWS DIG,https://www.youtube.com/watch?v=zXH3USmExSM
 日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 ABCテレビニュース,https://www.youtube.com/watch?v=LJtlWB1LXjU
 HTB北海道新聞,https://www.youtube.com/watch?v=tvgbZZYS4Nk
 ANNnewsCH,https://www.youtube.com/watch?v=coYw-eVU0Ks
 広島ニュース,https://www.youtube.com/watch?v=e2pgLUmaxGs
 愛知・岐阜・三重の最新,https://www.youtube.com/watch?v=-C6FE2m7kX8
-NHK World-Japan,https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
-NHK World-Japan,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3
-NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
 
 
 🇰🇷韓國頻道,#genre#
