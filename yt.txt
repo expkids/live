@@ -71,9 +71,9 @@ YTN dmb,https://www.youtube.com/watch?v=2C2WCLhDsR4
 
 Nat Geo Animals,https://www.youtube.com/watch?v=J4IYwyEUwrI
 National Geographic,https://www.youtube.com/watch?v=-WFnJpntwZg
-Discovery,https://www.youtube.com/watch?v=0IaZpvpPVGs
+Discovery,https://www.youtube.com/watch?v=FXbwbQbQdN8
 Animal Planet,https://www.youtube.com/watch?v=iG_-FTvPiLs
-BBC Earth, https://www.youtube.com/watch?v=1LhlXiSc5NY
+BBC Earth, https://www.youtube.com/watch?v=yMMTtY_L-y0
 River Monsters™, https://www.youtube.com/watch?v=iXn6hdpo8Pg
 Explore Africa,https://www.youtube.com/watch?v=DsNtwGJXTTs
 Relaxing Nature In 4K,https://www.youtube.com/watch?v=vdeJ3QY6w6g
