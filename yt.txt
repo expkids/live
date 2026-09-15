@@ -45,7 +45,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 🇯🇵日本頻道,#genre#
 NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=IimtbuqYIE8
-TBS NEWS DIG,https://www.youtube.com/watch?v=zXH3USmExSM
+TBS NEWS DIG,https://www.youtube.com/watch?v=LpcTlp8ukXU
 日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 ABCテレビニュース,https://www.youtube.com/watch?v=LJtlWB1LXjU
 HTB北海道新聞,https://www.youtube.com/watch?v=tvgbZZYS4Nk
