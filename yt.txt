@@ -13,7 +13,7 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞台Live,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣台 24小時直播,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞財經台,https://www.youtube.com/watch?v=yAUQQ0DhPxI
-https://www.atptour.com/en/atp-challenger-tour/challenger-tv/challenger-tv-search-results/2026-7288-ms027-seoul-sanhui-shin-vs-coleman-wong/2026/7288/all
+AAA,https://www.atptour.com/en/atp-challenger-tour/challenger-tv/challenger-tv-search-results/2026-7288-ms027-seoul-sanhui-shin-vs-coleman-wong/2026/7288/all
 
 
 
