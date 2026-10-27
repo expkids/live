@@ -19,6 +19,7 @@ ABC, https://www.atptour.com/en/atp-challenger-tour/challenger-tv/challenger-tv-
 
 
 🌐英語頻道,#genre#
+ABC, https://www.atptour.com/en/atp-challenger-tour/challenger-tv/challenger-tv-search-results/2026-7288-ms027-seoul-sanhui-shin-vs-coleman-wong/2026/7288/all
 🇬🇧GBN,https://www.youtube.com/watch?v=I8E6eDmhegY
 🇬🇧NBC News Now, https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 🇺🇸FOX,https://www.youtube.com/watch?v=z0nHA8i4j2M
