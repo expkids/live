@@ -13,19 +13,17 @@ TVBS選新聞Live,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞台Live,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣台 24小時直播,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞財經台,https://www.youtube.com/watch?v=yAUQQ0DhPxI
-ABC, https://www.atptour.com/en/atp-challenger-tour/challenger-tv/challenger-tv-search-results/2026-7288-ms027-seoul-sanhui-shin-vs-coleman-wong/2026/7288/all
 
 
 
 
 🌐英語頻道,#genre#
-ABC, https://www.atptour.com/en/atp-challenger-tour/challenger-tv/challenger-tv-search-results/2026-7288-ms027-seoul-sanhui-shin-vs-coleman-wong/2026/7288/all
-🇬🇧GBN,https://www.youtube.com/watch?v=I8E6eDmhegY
+
+🇬🇧GBN,https://www.youtube.com/watch?v=EDbWwVR7i9Q
 🇬🇧NBC News Now, https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-🇺🇸FOX,https://www.youtube.com/watch?v=z0nHA8i4j2M
+🇺🇸FOX,https://www.youtube.com/watch?v=d-s6VAEAkls
 🇺🇸NBC New,https://www.youtube.com/watch?v=ObAWq8EvQRc
 🇺🇸abcNEWS,https://www.youtube.com/abcnews/live
-🇺🇸abcNEWS,https://www.youtube.com/watch?v=iipR5yUp36o
 🇺🇸ABC7,https://www.youtube.com/watch?v=s3iVFJoxrYc
 🇺🇸Bloomberg News,https://www.youtube.com/watch?v=DxmDPrfinXY
 🇺🇸Bloomberg Television,https://www.youtube.com/watch?v=QB5BNdBFujE
